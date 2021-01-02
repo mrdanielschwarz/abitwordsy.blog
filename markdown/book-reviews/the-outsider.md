@@ -13,7 +13,7 @@ description: My 4.5★ review of Stephen King’s 2019 novel “The Outsider”
 
 ## Introduction
 
-![](/images/the-outsider-book-cover.jpeg)
+![](/images/the-outsider-book-cover.jpg)
 
 *Published in May 2018, read in January 2020.*
 
