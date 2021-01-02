@@ -2,15 +2,19 @@
 
 layout: layout
 
-title: Book Review - The Outsider by Stephen King
+date: 2021-01-01
 
-description: description ipsum
+tags: ["home", "book-review"]
+
+title: "Book Review: The Outsider, by Stephen King"
+
+description: description ipsum and some bimsss
 
 ---
 
-# {{title}}
+## Introduction
 
-![](img/the-outsider-book-cover.jpeg)
+![](/images/the-outsider-book-cover.jpeg)
 
 *Published in May 2018, read in January 2020.*
 

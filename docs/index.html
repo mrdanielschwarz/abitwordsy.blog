@@ -1,24 +1,305 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-GB">
 
 <head>
+   
+    <title>A Bit Wordsy</title>
+    
     <meta charset="UTF-8">
-    <title>lorem title lorem</title>
-    <meta name="description" content="description ipsum">
+    
+    <meta name="theme-color" content="white">
+    <meta name="description" content="description ipsum and some bimsss">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="twitter:site" content="@abitwordsy">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <meta property="og:url" content="https://abitwordsy.design/">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    
+    <style>
+        :root {
+            /** Colors **/
+            
+            --c-1: 128 10% 100%;
+            --c-8: 128 10% 70%;
+            --c-17: 128 10% 36%;
+            --c-25: 128 10% 4%;
+            
+            /** Wrappers (1x, 0.5x) **/
+            --w-1x: calc(7.5vw + 0.8rem);
+            --w-05x: calc(var(--w-1x) * 0.5);
+            /** Buttons (s, m, l, f, c) **/
+            --s-48: 4.8rem;
+            --s-48-03: calc(var(--s-48) * 0.3);
+            --s-48-05: calc(var(--s-48) * 0.5);
+            --s-58: 5.8rem;
+            --s-58-03: calc(var(--s-58) * 0.3);
+            --s-58-05: calc(var(--s-58) * 0.5);
+            --s-68: 6.8rem;
+            --s-68-03: calc(var(--s-68) * 0.3);
+            --s-68-05: calc(var(--s-68) * 0.5);
+            --s-98: 9.8rem;
+            --s-98-03: calc(var(--s-98) * 0.3);
+            --s-98-05: calc(var(--s-98) * 0.5);
+            --s-00: calc(var(--w-1x) * 2);
+            --s-00-03: calc(var(--s-00) * 0.3);
+            --s-00-05: calc(var(--s-00) * 0.5);
+            /** Typescale **/
+            --l-p: 1.7;
+            --f-p: 1.7rem;
+            --l-scale: 0.1;
+            --f-scale: 1.25;
+            --f-h3: calc(var(--f-p) * var(--f-scale));
+            --f-h2: calc(var(--f-h3) * var(--f-scale));
+            --f-h1: calc(var(--f-h2) * var(--f-scale));
+            --l-h3: calc(var(--l-p) - var(--l-scale));
+            --l-h2: calc(var(--l-h3) - var(--l-scale));
+            --l-h1: calc(var(--l-h2) - var(--l-scale));
+            /** Shadow **/
+            --shadow: 0 0 var(--w-05x) hsl(var(--c-25) / 30%);
+        }
+
+        ::selection {
+            background: hsl(var(--c-8));
+        }
+
+        @keyframes beat {
+            10% {
+                transform: scale(1.02);
+            }
+
+            20% {
+                transform: scale(0.98);
+            }
+
+            30% {
+                transform: scale(1.0);
+            }
+
+            100% {
+                transform: scale(1.0);
+            }
+        }
+
+        * {
+            margin: 0;
+            border: none;
+            box-sizing: border-box;
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            -webkit-tap-highlight-color: transparent;
+            font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+        }
+
+        *:focus {
+            outline: none;
+        }
+
+        *:not(input):focus-visible {
+            animation: beat 1000ms infinite;
+        }
+
+        html {
+            font-size: 62.5%;
+        }
+
+        body {
+            text-align: center;
+            padding: var(--w-1x);
+            color: hsl(var(--c-25));
+        }
+
+        body,
+        input,
+        button {
+            font-size: 1.6rem;
+        }
+
+        h1 {
+            font-weight: 900;
+            font-size: var(--f-h1);
+            line-height: var(--l-h1);
+        }
+
+        h2 {
+            font-weight: 900;
+            font-size: var(--f-h2);
+            line-height: var(--l-h2);
+        }
+
+        h3 {
+            font-weight: 900;
+            font-size: var(--f-h3);
+            line-height: var(--l-h3);
+        }
+
+        p,
+        ul {
+            font-size: var(--f-p);
+            line-height: var(--l-p);
+        }
+
+        ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        li:before {
+            content: "\200B";
+        }
+
+        hr {
+            width: 0;
+            height: 0;
+        }
+
+        i+span {
+            margin-left: 1rem;
+        }
+
+        a,
+        select,
+        button {
+            color: inherit;
+            cursor: pointer;
+            background: unset;
+            border-radius: unset;
+            display: inline-flex;
+            text-decoration: underline;
+            text-underline-position: under;
+        }
+
+        button,
+        a[class] {
+            place-items: center;
+            place-content: center;
+        }
+
+        a[class],
+        button[class],
+        button[tabindex],
+        button[type=submit] {
+            text-decoration: none;
+            color: hsl(var(--c-1));
+        }
+
+        a[class]:hover,
+        button[class]:hover,
+        button[tabindex]:hover,
+        button[type=submit]:hover {
+            filter: brightness(110%);
+        }
+
+        a[class],
+        button[class],
+        button[tabindex],
+        button[type=submit] {
+            font-weight: 700;
+        }
+
+        a[class],
+        button[class],
+        button[tabindex],
+        button[type=submit],
+        label input {
+            box-shadow: var(--shadow);
+        }
+
+        button[class],
+        button[type=submit] {
+            background: hsl(var(--c-13));
+        }
+
+        a.button,
+        button[type=submit],
+        button[class]:not(.o),
+        label input {
+            height: var(--s-58);
+            padding: 0 var(--s-58-05);
+            border-radius: var(--s-58-03);
+        }
+
+        .w-1x {
+            padding: var(--w-1x);
+            
+        }
+
+        header {
+            margin-bottom: var(--w-1x);
+        }
+
+        h2 time {
+            display: block;
+            font-size: 1.6rem;
+            color: hsl(var(--c-17));
+            transform: rotate(-3deg);
+        }
+            
+    </style>
+    
+    <link rel="canonical" href="https://abitwordsy.blog/">
+    
+    <!--<link rel="manifest" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/manifest.webmanifest?v=5583525515540984804">-->
+    
+    <link rel="icon" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/icon-1080x1080.png?v=12235627273797034836" sizes="1080x1080" type="image/png">
+    
+    <link rel="apple-touch-icon" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/icon-192x192.png?v=15119435606953106555" sizes="192x192" type="image/png">
+    
+    <!-- PWA -->
+    <!-- sa -->
+    <!-- bmac -->
+    <!-- schema -->
+    
+    <script defer src="https://unpkg.com/quicklink@2.0.0/dist/quicklink.umd.js"></script>
+    
+    <script>
+        window.addEventListener("load", () => {
+            quicklink.listen();
+        });
+    </script>
 </head>
 
-<body><h1>h1</h1>
-<p>lorem</p>
-<h2>h2</h2>
-<p>lorem</p>
-<h2>h2</h2>
-<p>lorem</p>
-<h2>h3</h2>
-<p>lorem</p>
-<h2>h3</h2>
-<p>lorem</p>
-<h2>h3</h2>
-<p>lorem</p>
+<body>
+   
+    <header>
+       
+        <nav></nav>
+        
+    </header>
+    
+    <main>
+    
+        <header>
+
+            <h1>A Bit Wordsy</h1>
+            <p>description ipsum and some bimsss</p>
+
+        </header>
+        
+        
+        
+            
+<div style="margin:0 auto;display:inline-grid;gap:var(--w-1x);">
+   
+    
+        <article>
+            <h2>
+                <time datetime="Fri Jan 01 2021 08:00:00 GMT+0800 (Malaysia Time)">1st January 2021</time>
+                <a href="/book-reviews/the-outsider/">Book Review: The Outsider, by Stephen King</a>
+            </h2>
+        </article>
+    
+    
+</div>
+        
+        
+    
+    </main>
+    
+    <footer></footer>
+    
 </body>
 
 </html>
