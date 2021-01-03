@@ -16,7 +16,7 @@ rating: 4
 
 # {{ title }}
 
-![](/images/the-girl-in-the-mirror-book-cover.jpg)
+![](/images/the-girl-in-the-mirror.jpg)
 
 *Published in June 2019, read in December 2020.*
 
