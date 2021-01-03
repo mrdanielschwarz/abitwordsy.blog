@@ -6,11 +6,12 @@ date: 2020-12-08
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Who’s There? A Collection of Stories by Dimas Rio”
+title: "Book Review: Who’s There? A Collection of Stories by Dimas Rio"
 
-description: "My 4.5-star review of Dimas Rio’s “Who’s There? A Collection of Stories”".
+description: "My 4.5-star review of Dimas Rio’s “Who’s There? A Collection of Stories.”"
 
 rating: 4.5
+
 ---
 
 # {{ title }}

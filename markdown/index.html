@@ -14,7 +14,7 @@ description: description ipsum
    
     {% for article in collections.home %}
         <article>
-            <h2> {{ article.data.rating | starify }}
+            <h2>
                 <time datetime="{{ article.data.date }}">{{ article.data.date | friendly }}</time>
                 <a href="{{ article.url }}">{{ article.data.title }}</a>
             </h2>

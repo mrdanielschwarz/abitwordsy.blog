@@ -6,11 +6,12 @@ date: 2020-12-07
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Mexican Gothic by Silvia Moreno-Gracia”
+title: "Book Review: Mexican Gothic by Silvia Moreno-Gracia"
 
-description: "My 4.5-star review of Silvia Moreno-Garcia’s 2020 novel “Mexican Gothic”".
+description: "My 4.5-star review of Silvia Moreno-Garcia’s 2020 novel “Mexican Gothic.”"
 
 rating: 4.5
+
 ---
 
 # {{ title }}

@@ -6,13 +6,14 @@ date: 2020-11-09
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Confessions by Kanae Minato”
+title: "Book Review: Confessions by Kanae Minato"
 
-description: "My 5-star review of Kanae Minato’s “Confessions”".
+description: "My 5-star review of Kanae Minato’s “Confessions”."
 
-rating:5
+rating: 5
 
 ---
+
 ![](/images/confessions-book-cover.jpg)
 
 # {{ title }}

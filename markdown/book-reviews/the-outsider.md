@@ -8,9 +8,10 @@ tags: ["home", "book-review"]
 
 title: "Book Review: The Outsider by Stephen King"
 
-description: "My 4.5-star review of Stephen King’s 2019 novel “The Outsider”".
+description: "My 4.5-star review of Stephen King’s 2019 novel “The Outsider.”"
 
 rating: 4.5
+
 ---
 
 # {{ title }}

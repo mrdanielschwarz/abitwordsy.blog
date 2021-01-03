@@ -6,11 +6,12 @@ date: 2020-11-27
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Revenge by Yōko Ogawa”
+title: "Book Review: Revenge by Yōko Ogawa"
 
-description: "My 5-star review of Yōko Ogawa’s short story collection “Revenge”".
+description: "My 5-star review of Yōko Ogawa’s short story collection “Revenge.”"
 
 rating: 5
+
 ---
 
 # {{ title }}
