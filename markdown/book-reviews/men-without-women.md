@@ -14,9 +14,9 @@ rating: 3.5
 
 ---
 
-![](/images/men-without-women-book-cover.jpg)
-
 # {{ title }}
+
+![](/images/men-without-women-book-cover.jpg)
 
 *Published in English in May 2017, read in August 2020.*
 

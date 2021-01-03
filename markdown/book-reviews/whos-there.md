@@ -20,7 +20,7 @@ rating: 4.5
 
 *Published in December 2019, read in December 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 ***In this spooky 5-story collection a bride-to-be goes missing just a week prior to her wedding, a student hears a chilling tale from a mystery writer he interviews for a school assignment, a greedy, lustful security guard receives letters from beyond the grave, a boy communicates with a loved one no longer with him, and a harrowing tale of domestic violence and it's consequences conclude the collection.***
 

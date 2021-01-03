@@ -20,7 +20,7 @@ rating: 4.5
 
 *Published in May 2018, read in January 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 ***The body of an 11-year old boy is found in a park. He's been violated and brutally murdered. All evidence points to a much-loved member of the town- Terry Maitland; loving husband, father of 2 girls, and the town's Little League coach. Witnesses and DNA evidence all point to him and Detective Ralph Anderson, whose own son was coached by Terry, sickened by the crime, orders a very public and immediate arrest, turning the whole town against Terry and his family. But what happens when Terry Maitland produces a concrete alibi? Is it possible for a man to be in 2 places at once? Could this beloved friend of the town and all round nice guy really have committed such a horrendous act?***
 

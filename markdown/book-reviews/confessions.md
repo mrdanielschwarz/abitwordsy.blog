@@ -14,13 +14,13 @@ rating: 5
 
 ---
 
-![](/images/confessions-book-cover.jpg)
-
 # {{ title }}
+
+![](/images/confessions-book-cover.jpg)
 
 *Published in English in August 2014, read in November 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 ***Single mother and middle school teacher Yuko Moriguchi’s 4-year old daughter tragically dies after an apparent accident at the school she works at. Following the tragedy, Yuko decides to hand in her resignation, but not before she gives one final lecture that will change the lives of two of her students forever and set in motion her genius plot for revenge.***
 

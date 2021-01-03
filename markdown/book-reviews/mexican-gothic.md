@@ -20,7 +20,7 @@ rating: 4.5
 
 *Published in June 2020, read in November 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 
 ***In 1950s Mexico, Noemí Taboada, a young, outspoken socialite, and her father receive an alarming letter from her distraught newly-wed cousin. She begs to be saved from the whispers, ghosts and fleshless things at High Palace, and claims that her husband, Virgil Doyle, is poisoning her. The letter reeks of insanity and Noemí heads immediately to the isolated old mansion in the Mexican countryside at her father's behest to check on her cousin's condition. It doesn't take long for Noemí to start feeling that maybe her cousin isn't insane, and that maybe something really isn't quite right about the Doyle's and High Place.***

@@ -16,11 +16,11 @@ rating: 5
 
 # {{ title }}
 
-![](/images/revengebook-cover.jpg)
+![](/images/revenge-book-cover.jpg)
 
 *Published in January 2013, read in November 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 ***A writer moves into a new apartment to discover that her widowed landlady grows carrots mysteriously shaped like hands, a woman becomes obsessed with death after suffering a heartbreaking tragedy, a jealous woman seeks revenge on her lover, a man curates antiques at a museum of torture. The lives of these characters all subtly intertwine in eleven chilling tales.***
 
@@ -29,7 +29,9 @@ I give **Revenge: Eleven Dark Tales** 5/5 stars. This collection contains a litt
 I knew from the first story that I was going to devour this book. Titled so unsuspectingly, **Afternoon at The Bakery** tells the story of a woman who goes into town to a bakery to buy some strawberry shortcakes for her son’s birthday. While she waits to be served, she strikes up a conversation with another woman in which she reveals her devastating loss with this one heart-wrenching piece of dialogue:
 
 **“I’m buying them for my son. Today is his birthday.”**
+
 **“Really? Well, I hope it’s a happy one. How old is he?”**
+
 **“Six. He’ll always be six. He’s dead.”**
 
 The writing was so simple, yet I had to pause and let it sink in for a minute. I remember thinking that I wish I could convey grief and loss in such a way in my own writing. What follows this brief conversation are the effects of such a loss on the mind and relationships.
