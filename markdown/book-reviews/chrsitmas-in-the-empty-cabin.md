@@ -6,7 +6,7 @@ date: 2020-12-16
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales E. Reyes“
+title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales E. Reyes"
 
 description: "My 3.5-star review of Christmas in the Empty Cabin and other Holiday Tales by E. Reyes.”"
 
