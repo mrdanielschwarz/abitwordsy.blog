@@ -1,7 +1,8 @@
 <!doctype html>
+
 <html lang="en-GB">
 
-<head>
+    <head>
    
     <title>Book Review: Men Without Women by Haruki Murakami</title>
     
@@ -13,7 +14,7 @@
     <meta name="twitter:site" content="@abitwordsy">
     <meta name="twitter:card" content="summary_large_image">
     
-    <meta property="og:url" content="https://abitwordsy.design/">
+    <meta property="og:url" content="https://abitwordsy.blog/">
     <meta property="og:title" content="">
     <meta property="og:description" content="">
     <meta property="og:image" content="">
@@ -159,68 +160,30 @@
             margin-left: 1rem;
         }
 
-        a,
-        select,
-        button {
+        a {
             color: inherit;
-            cursor: pointer;
-            background: unset;
-            border-radius: unset;
             display: inline-flex;
-            text-decoration: underline;
             text-underline-position: under;
         }
 
-        button,
-        a[class] {
-            place-items: center;
-            place-content: center;
+   
+ 
+
+        .button,button {text-decoration: none;place-items: center;
+        place-content: center;
+        color: hsl(var(--c-1));font-weight: 700;
+        background: hsl(var(--c-17)); box-shadow: var(--shadow);height: var(--s-58);
+        padding: 0 var(--s-58-05);
+        border-radius: var(--s-58-03);
+        display: inline-flex;
         }
 
-        a[class],
-        button[class],
-        button[tabindex],
-        button[type=submit] {
-            text-decoration: none;
-            color: hsl(var(--c-1));
+        .button:hover,button:hover {
+        filter: brightness(110%);
         }
 
-        a[class]:hover,
-        button[class]:hover,
-        button[tabindex]:hover,
-        button[type=submit]:hover {
-            filter: brightness(110%);
-        }
 
-        a[class],
-        button[class],
-        button[tabindex],
-        button[type=submit] {
-            font-weight: 700;
-        }
-
-        a[class],
-        button[class],
-        button[tabindex],
-        button[type=submit],
-        label input {
-            box-shadow: var(--shadow);
-        }
-
-        button[class],
-        button[type=submit] {
-            background: hsl(var(--c-13));
-        }
-
-        a.button,
-        button[type=submit],
-        button[class]:not(.o),
-        label input {
-            height: var(--s-58);
-            padding: 0 var(--s-58-05);
-            border-radius: var(--s-58-03);
-        }
-
+   
         .w-1x {
             padding: var(--w-1x);
             
@@ -243,9 +206,9 @@
     
     <!--<link rel="manifest" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/manifest.webmanifest?v=5583525515540984804">-->
     
-    <link rel="icon" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/icon-1080x1080.png?v=12235627273797034836" sizes="1080x1080" type="image/png">
+    <link rel="icon" href="" sizes="512x512" type="image/png">
     
-    <link rel="apple-touch-icon" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/icon-192x192.png?v=15119435606953106555" sizes="192x192" type="image/png">
+    <link rel="apple-touch-icon" href="/" sizes="192x192" type="image/png">
     
     <!-- PWA -->
     <!-- sa -->
@@ -259,28 +222,55 @@
             quicklink.listen();
         });
     </script>
+    
 </head>
 
-<body>
+    <body>
    
     <header>
        
-        <nav></nav>
+        <nav id="nav">
+            <div><a href="/">A Bit Wordsy</a>, by <a href="https://twitter.com/abitwordsy/" target="_blank">Rebeka Schwarz</a></div>
+            <div></div>
+            <div><a class="button" href="">Buy Me A Coffee</a></div>
+        </nav>
+        
+        <style>
+            
+            #nav {
+                display: grid;
+                font-weight: 700;
+                align-items: center;
+                grid-template-columns: auto 1fr auto;
+            }
+
+            #list {
+                gap: var(--w-1x);
+                display: inline-grid;
+                margin: var(--w-1x) auto 0;
+            }
+            
+            #article img {
+                
+                width: 100%;
+                max-width: 96rem;
+                border-radius: var(--s-68-05);
+                
+            }
+            
+            #footer-div {
+                margin: var(--w-1x) auto;
+            }
+            
+        </style>
         
     </header>
     
     <main>
-    
-        <header>
-
-            <h1>Book Review: Men Without Women by Haruki Murakami</h1>
-            <p>My 3.5-star review of Haruki Murakami’s short story collection “Men Without Women”.</p>
-
-        </header>
         
         
         
-            <article><p><img src="/images/men-without-women-book-cover.jpg" alt=""></p>
+            <article id="article"><p><img src="/images/men-without-women-book-cover.jpg" alt=""></p>
 <p><em>Published in English in May 2017, read in August 2020.</em></p>
 <p><strong>My rating: 3.5★</strong></p>
 <p>This collection of short stories was my first dive into Japanese literature. On doing some research, of course, Haruki Murakami was heavily recommended as a gateway to Japanese fiction. I'd heard he wasn't for everyone because his writing can be very bizarre, so I thought a short story collection would give me a good idea about his style. I enjoyed most of the stories in Men Without Women, but I feel that maybe it wasn't the best place to start on doing further research.</p>
@@ -298,7 +288,15 @@ In &quot;Scheherazade&quot; a man, for undisclosed reasons, can't leave his hous
     
     </main>
     
-    <footer></footer>
+    <footer id="footer">
+    
+        <div id="footer-div">
+            
+        </div>
+    
+        <a href="/">A Bit Wordsy</a> © 2021
+    
+    </footer>
     
 </body>
 
