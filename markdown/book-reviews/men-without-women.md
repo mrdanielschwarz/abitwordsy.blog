@@ -19,7 +19,7 @@ rating: 3.5
 
 *Published in English in May 2017, read in August 2020.*
 
-**My rating: {{ rating }} stars**
+**My rating: {{ rating | starify }}**
 
 This collection of short stories was my first dive into Japanese literature. On doing some research, of course, Haruki Murakami was heavily recommended as a gateway to Japanese fiction. I'd heard he wasn't for everyone because his writing can be very bizarre, so I thought a short story collection would give me a good idea about his style. I enjoyed most of the stories in Men Without Women, but I feel that maybe it wasn't the best place to start on doing further research.
 
@@ -36,5 +36,5 @@ In **"An Independent Organ"** we're told the story of a successful cosmetic surg
 
 Although I feel a bit conflicted about **"Men Without Women"**, I enjoyed it overall and Murakami's style of writing was quite refreshing for me. I love the way he creates everyday situations with weird twists. I'm also fond of the way he writes dialogue between characters. It feels like you're listening in on the conversations. For these reasons I'm not going to give up on Murakami yet, I do think I'll read one of his novels next.
 
-[Buy the book on Amazon](https://www.amazon.com/Men-Without-Women-Stories-International/dp/1101974524/ref=sr_1_1?dchild=1&keywords=men+without+women&qid=1606738061&s=books&sr=1-1).
+**[Buy the book on Amazon](https://www.amazon.com/Men-Without-Women-Stories-International/dp/1101974524/ref=sr_1_1?dchild=1&keywords=men+without+women&qid=1606738061&s=books&sr=1-1).**
 

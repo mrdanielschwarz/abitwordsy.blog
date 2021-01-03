@@ -32,5 +32,3 @@ I found Detective Ralph Anderson's character so perfectly human and this was one
 I don't want to say much more, this book is hard to review without spoiling it. Despite loving this novel, I've given it 4.5 stars because the ending was a bit lacklustre, but you shouldn't let that put you off because the journey up to it is spectacular.
 
 **[Buy the book on Amazon](https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983).**
-
-Banner.jpeg
