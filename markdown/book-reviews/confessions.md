@@ -8,7 +8,7 @@ tags: ["home", "book-review"]
 
 title: "Book Review: Confessions by Kanae Minato”
 
-description: My 5-star review of Kanae Minato’s “Confessions”.
+description: "My 5-star review of Kanae Minato’s “Confessions”".
 
 rating:5
 
@@ -23,7 +23,7 @@ rating:5
 
 ***Single mother and middle school teacher Yuko Moriguchi’s 4-year old daughter tragically dies after an apparent accident at the school she works at. Following the tragedy, Yuko decides to hand in her resignation, but not before she gives one final lecture that will change the lives of two of her students forever and set in motion her genius plot for revenge.***
 
-I’m on a bit of a Japanese literature kick lately, although I think it’s going to become a long love affair of epic proportions. I love the deep, moody, melancholic atmosphere that seems to be prevalent in it. There is just something about it that draws me in. **”Confessions”** has a lot of that with the added touch of some serious revenge.
+I’m on a bit of a Japanese literature kick lately, although I think it’s going to become a long love affair of epic proportions. I love the deep, moody, melancholic atmosphere that seems to be prevalent in it. There is just something about it that draws me in. **Confessions** has a lot of that with the added touch of some serious revenge.
 
 I love a good psychological thriller. I also love stories told from different points of view. This novel has both of these things and I loved every page of it.
 
