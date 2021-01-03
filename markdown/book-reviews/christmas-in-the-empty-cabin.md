@@ -6,7 +6,7 @@ date: 2020-12-16
 
 tags: ["home", "book-review"]
 
-title: "Book Review: The Outsider by Stephen King"
+title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales E. Reyes“
 
 description: "My 3.5-star review of Christmas in the Empty Cabin and other Holiday Tales by E. Reyes.”"
 
@@ -16,7 +16,7 @@ rating: 3.5
 
 # {{ title }}
 
-![](/images/christmas-in-the-empty-cabin-book-cover.jpg)
+![](/images/christmas-in-the-empty-cabin.jpg)
 
 *Published in November 2020, read in December 2020.*
 
