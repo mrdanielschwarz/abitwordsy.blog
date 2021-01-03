@@ -176,6 +176,7 @@
         padding: 0 var(--s-58-05);
         border-radius: var(--s-58-03);
         display: inline-flex;
+           
         }
 
         .button:hover,button:hover {
@@ -201,6 +202,8 @@
         }
             
     </style>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     
     <link rel="canonical" href="https://abitwordsy.blog/">
     
@@ -232,7 +235,7 @@
         <nav id="nav">
             <div><a href="/">A Bit Wordsy</a>, by <a href="https://twitter.com/abitwordsy/" target="_blank">Rebeka Schwarz</a></div>
             <div></div>
-            <div><a class="button" href="">Buy Me A Coffee</a></div>
+            <div><a class="button" href="https://buymeacoff.ee/abitwordsy/">Buy Me A Coffee</a></div>
         </nav>
         
         <style>
@@ -259,11 +262,22 @@
             }
             
             #footer-div {
+               
                 padding: var(--w-1x);
                 margin: var(--w-1x) auto;
                 border-radius: var(--s-68-05);
-                border: 0.5rem solid hsl(var(--c-25));
+                border: 1rem solid hsl(var(--c-25));
             }
+                        
+            #footer-span { position: relative; color: hsl(var(--c-17)); }
+            
+            #footer-span-span { font-size: 1.6rem; position: absolute; top: -7rem; right: -3rem; transform: rotate(3deg); }
+            
+            h1, h2, h3, p { max-width: 64rem; margin: 2.5rem auto; }
+            
+            #article { text-align: left; }
+            
+            i { color: hsl(var(--c-17)); }
             
         </style>
         
@@ -294,7 +308,9 @@
     
         <div id="footer-div">
            
-           <h1>Support me on Buy Me A Coffee</h1>
+           <h1>Support <span id="footer-span">me <span id="footer-span-span">A Bit Wordsy<br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
+           
+           <a class="button" href="https://buymeacoff.ee/abitwordsy/">Buy Me A Coffee</a>
             
         </div>
     
