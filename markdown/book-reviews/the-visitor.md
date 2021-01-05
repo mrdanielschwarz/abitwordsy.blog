@@ -1,27 +1,24 @@
 ---
 
+rating: 4
+
 layout: layout
 
 date: 2020-12-23
+
+read: December 2020
+
+released: December 2020
 
 tags: ["home", "book-review"]
 
 title: "Book Review: The Visitor by Sergio Gomez" 
 
-description: "My 4-star review of Sergio Gomez’s Christmas horror novella “The Visitor.”"
+blockquote: "“...”"
 
-rating: 4
+description: "My 4-star review of Sergio Gomez’s Christmas horror novella, “The Visitor.”"
 
 ---
-
-# {{ title }}
-
-![](/images/the-visitor-book-cover.jpg)
-
-*Published in December 2020, read in December 2020.*
-
-**My rating: {{ rating | starify }}**
-
 
 ***On Christmas, in the middle of one of the worst snowstorms Indiana has seen, a group of 5 strangers are left with no choice but to find shelter inside a roadside diner. As the storm worsens with no end in sight, the worst is still yet to come with a sixth visitor on their way to the diner, and they’re not bringing festive cheer.***
 
@@ -34,4 +31,3 @@ Sergio Gomez is great at descriptive writing. The setting was so fantastically w
 After reading **The Visitor**, I’m dreaming of a red Christmas and I’m excited to read some more of Sergio Gomez’s work in the coming year. I’m glad to be able to add another indie author to my growing list. It was a perfectly paced, action packed, nail-biting read, and it hit the festive spot perfectly.
 
 **[Buy the book on Amazon](https://www.amazon.com/Visitor-Horror-Novella-Sergio-Gomez-ebook/dp/B08J6M5ZYZ).**
-

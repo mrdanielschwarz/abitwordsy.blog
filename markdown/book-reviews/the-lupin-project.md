@@ -1,26 +1,24 @@
 ---
 
+rating: 4
+
 layout: layout
 
 date: 2020-12-29
+
+read: December 2020
+
+released: August 2017
 
 tags: ["home", "book-review"]
 
 title: "Book Review: The Lupin Project by Allan Leverone"
 
+blockquote: "“...”"
+
 description: "My 4-star review of Allan Leverone’s “The Lupin Project.”"
 
-rating: 4
-
 ---
-
-# {{ title }}
-
-![](/images/the-lupin-project-book-cover.jpg)
-
-*First published in August 2017, read in December 2020.*
-
-**My rating: {{ rating | starify }}**
 
 ***High school senior Eddie and his girlfriend Alicia head to an abandoned logging trail for a little bit of alone time. They soon find that they’re not alone. The trail ends behind the very secretive Tamerlane Research Facility, and one of their experiments has gotten loose. Tragedy ensues and it’s up to Alicia and Eddie’s older brother to get to the bottom of what happened, but that’s easier said than done when a very powerful, immoral figure doesn’t want the details of the tragedy to be uncovered.***
 
