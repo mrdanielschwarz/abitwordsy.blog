@@ -1,28 +1,28 @@
 ---
 
+rating: 5
+
 layout: layout
 
 date: 2020-11-27
+
+read: November 2020
+
+released: January 2013
 
 tags: ["home", "book-review"]
 
 title: "Book Review: Revenge by Yōko Ogawa"
 
-description: "My 5-star review of Yōko Ogawa’s short story collection “Revenge.”"
+blockquote: "“How old is he?” … “Six. He’ll always be six. He’s dead.”"
 
-rating: 5
+description: "My 5-star review of Yōko Ogawa’s short story collection, “Revenge.”"
 
 ---
 
-# {{ title }}
+A writer moves into a new apartment to discover that her widowed landlady grows carrots mysteriously shaped like hands, a woman becomes obsessed with death after suffering a heartbreaking tragedy, a jealous woman seeks revenge on her lover, a man curates antiques at a museum of torture. The lives of these characters all subtly intertwine in eleven chilling tales.
 
-![](/images/revenge-book-cover.jpg)
-
-*Published in January 2013, read in November 2020.*
-
-**My rating: {{ rating | starify }}**
-
-***A writer moves into a new apartment to discover that her widowed landlady grows carrots mysteriously shaped like hands, a woman becomes obsessed with death after suffering a heartbreaking tragedy, a jealous woman seeks revenge on her lover, a man curates antiques at a museum of torture. The lives of these characters all subtly intertwine in eleven chilling tales.***
+![](/images/revenge.jpg)
 
 I give **Revenge: Eleven Dark Tales** 5/5 stars. This collection contains a little bit of everything I love. It’s dark, Gothic, heartbreaking, melancholic, terrifying at times, and mysterious.
 

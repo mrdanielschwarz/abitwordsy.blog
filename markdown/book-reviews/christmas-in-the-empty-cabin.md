@@ -1,26 +1,24 @@
 ---
 
+rating: 3.5
+
 layout: layout
 
 date: 2020-12-16
 
+read: December 2020
+
+released: November 2020
+
 tags: ["home", "book-review"]
 
-title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales E. Reyes"
+title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales by E. Reyes"
+
+blockquote: "“...”"
 
 description: "My 3.5-star review of Christmas in the Empty Cabin and other Holiday Tales by E. Reyes.”"
 
-rating: 3.5
-
 ---
-
-# {{ title }}
-
-![](/images/christmas-in-the-empty-cabin.jpg)
-
-*Published in November 2020, read in December 2020.*
-
-**My rating: {{ rating | starify }}**
 
 ***In this collection of 6 holiday-themed horror stories, a girl wakes up on Día de los Muertos to be greeted by some unexpected visitors. A man gives an unsettling account of a very twisted Thanksgiving. A boy becomes interested in a house and the girl who lives there, and she needs a favour from him. A man seeks solutions to the dilemmas of life for a working class family man. A man tries to get help for his injured friend in the woods during a blizzard, and a department store faces a terrifying threat from the season’s most sought after toy.***
 

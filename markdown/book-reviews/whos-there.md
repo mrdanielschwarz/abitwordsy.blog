@@ -1,26 +1,24 @@
 ---
 
+rating: 4.5
+
 layout: layout
 
 date: 2020-12-08
+
+read: December 2020
+
+released: December 2019
 
 tags: ["home", "book-review"]
 
 title: "Book Review: Who’s There? A Collection of Stories by Dimas Rio"
 
+blockquote: "“...”"
+
 description: "My 4.5-star review of Dimas Rio’s “Who’s There? A Collection of Stories.”"
 
-rating: 4.5
-
 ---
-
-# {{ title }}
-
-![](/images/whos-there-book-cover.jpg)
-
-*Published in December 2019, read in December 2020.*
-
-**My rating: {{ rating | starify }}**
 
 ***In this spooky 5-story collection a bride-to-be goes missing just a week prior to her wedding, a student hears a chilling tale from a mystery writer he interviews for a school assignment, a greedy, lustful security guard receives letters from beyond the grave, a boy communicates with a loved one no longer with him, and a harrowing tale of domestic violence and it's consequences conclude the collection.***
 

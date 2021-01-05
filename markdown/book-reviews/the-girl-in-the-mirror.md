@@ -1,27 +1,24 @@
 ---
 
+rating: 4
+
 layout: layout
 
 date: 2020-12-13
+
+read: December 2020
+
+released: June 2019
 
 tags: ["home", "book-review"]
 
 title: "Book Review: The Girl in The Mirror by Steven Ramirez" 
 
+blockquote: "“...”"
+
 description: "My 4-star review of Steven Ramirez’s “The Girl in The Mirror.”"
 
-rating: 4
-
 ---
-
-# {{ title }}
-
-![](/images/the-girl-in-the-mirror-book-cover.jpg)
-
-*Published in June 2019, read in December 2020.*
-
-**My rating: {{ rating | starify }}**
-
 
 ***Real estate agent Sarah Greene and her business partner and ex-husband Joe start renovating an old house in Dos Santos when they stumble upon a mirror. Sarah, gifted with the ability to communicate with spirits- although she doesn’t always see it as a gift, discovers that there is a teenaged girl’s restless spirit in the mirror. As she delves deeper to find out who killed the poor girl, she discovers that the people who built this house had a demon-worshipping son named Peter, and he quickly becomes Sarah’s number one suspect. But as she continues to dig, she starts to realise that perhaps Peter is part of a much bigger, very chilling picture in Dos Santos.***
 

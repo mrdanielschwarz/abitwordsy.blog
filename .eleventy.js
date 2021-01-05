@@ -2,27 +2,51 @@ var moment = require("moment-timezone");
 
 module.exports = (function (eleventyConfig) {
     
-    eleventyConfig.addPassthroughCopy("image");
     
+    
+    eleventyConfig.addShortcode("bmc", () => "abitwordsy");
+    
+    eleventyConfig.addShortcode("twitter", () => "abitwordsy");
+    
+    eleventyConfig.addShortcode("blog", () => "A Bit Wordsy");
+    
+    eleventyConfig.addShortcode("domain", () => "https://abitwordsy.blog");
+    
+    eleventyConfig.addShortcode("author", () => "Rebeka Schwarz");
+    
+    eleventyConfig.addShortcode("year", () => `${ new Date().getFullYear() }`);
+    
+    
+        
     eleventyConfig.addFilter("friendly", function (theDate) {
         return moment(theDate).tz("GMT").format("Do MMMM YYYY");
+    });
+        
+    eleventyConfig.addFilter("datetime", function (theDate) {
+        return moment(theDate).tz("GMT").format("YYYY-MM-DDThh:mm:ssTZD");
     });
     
     eleventyConfig.addFilter("starify", function (rating) {
         
-        let output = [];
+        let stars = [];
         
-        for (var i = rating; i >= 1; i--) output.push('<i class="fas fa-star"></i>');
+        for (var i = rating; i >= 1; i--) { 
+            stars.push(`<i class="fas fa-star"></i>`);
+        }
         
-        if (i == .5) output.push('<i class="fas fa-star-half-alt"></i>');
+        if (i == .5) {
+            stars.push(`<i class="fas fa-star-half-alt"></i>`);
+        }
         
-        for (let i = (5 - rating); i >= 1; i--) output.push('<i class="far fa-star"</i>');
+        for (let i = (5 - rating); i >= 1; i--) {
+            stars.push(`<i class="far fa-star"></i>`);
+        }
         
-        return `${ rating } ${ output.join("") }`;
+        return `${ rating } ${ stars.join("") }`;
         
     });
     
-    eleventyConfig.setTemplateFormats(["html", "md", "jpg", "jpeg", "liquid"]);
+    
     
     return {
         dir: {
@@ -31,5 +55,7 @@ module.exports = (function (eleventyConfig) {
             includes: "includes"
         }
     };
+    
+    
     
 });

@@ -1,26 +1,24 @@
 ---
 
+rating: 5
+
 layout: layout
 
 date: 2020-11-09
+
+read: November 2020
+
+released: August 2014
 
 tags: ["home", "book-review"]
 
 title: "Book Review: Confessions by Kanae Minato"
 
-description: "My 5-star review of Kanae Minato’s “Confessions”."
+blockquote: "“...”"
 
-rating: 5
+description: "My 5-star review of Kanae Minato’s “Confessions.”"
 
 ---
-
-# {{ title }}
-
-![](/images/confessions-book-cover.jpg)
-
-*Published in English in August 2014, read in November 2020.*
-
-**My rating: {{ rating | starify }}**
 
 ***Single mother and middle school teacher Yuko Moriguchi’s 4-year old daughter tragically dies after an apparent accident at the school she works at. Following the tragedy, Yuko decides to hand in her resignation, but not before she gives one final lecture that will change the lives of two of her students forever and set in motion her genius plot for revenge.***
 
