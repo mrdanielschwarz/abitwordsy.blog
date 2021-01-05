@@ -10,7 +10,7 @@ read: November 2020
 
 released: August 2014
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Confessions by Kanae Minato"
 

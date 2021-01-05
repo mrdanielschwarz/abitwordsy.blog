@@ -10,7 +10,7 @@ read: December 2020
 
 released: June 2019
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: The Girl in The Mirror by Steven Ramirez" 
 

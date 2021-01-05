@@ -10,7 +10,7 @@ read: December 2020
 
 released: November 2020
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales by E. Reyes"
 

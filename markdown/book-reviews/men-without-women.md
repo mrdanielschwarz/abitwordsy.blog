@@ -10,7 +10,7 @@ read: August 2020
 
 released: May 2017
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Men Without Women by Haruki Murakami"
 

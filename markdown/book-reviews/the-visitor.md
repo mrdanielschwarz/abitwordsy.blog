@@ -10,7 +10,7 @@ read: December 2020
 
 released: December 2020
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: The Visitor by Sergio Gomez" 
 

@@ -10,7 +10,7 @@ read: November 2020
 
 released: January 2013
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Revenge by Yōko Ogawa"
 

@@ -10,7 +10,7 @@ read: December 2020
 
 released: August 2017
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: The Lupin Project by Allan Leverone"
 

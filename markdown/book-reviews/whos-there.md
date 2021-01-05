@@ -10,7 +10,7 @@ read: December 2020
 
 released: December 2019
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Who’s There? A Collection of Stories by Dimas Rio"
 

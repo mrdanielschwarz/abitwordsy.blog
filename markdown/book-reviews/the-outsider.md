@@ -10,7 +10,7 @@ read: January 2020
 
 released: May 2018
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: The Outsider by Stephen King"
 

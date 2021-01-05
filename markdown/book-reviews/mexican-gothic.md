@@ -10,7 +10,7 @@ read: November 2020
 
 released: June 2020
 
-tags: ["home", "book-review"]
+tags: ["reviews"]
 
 title: "Book Review: Mexican Gothic by Silvia Moreno-Garcia"
 
