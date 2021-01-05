@@ -75,7 +75,7 @@
    
     <header>
         <nav id="nav">
-            <div><a class="blog" href="/"></a> by <a href="https://twitter.com/{% twitter %}/" target="_blank">{% author %}</a></div>
+            <div><a class="blog" href="/"></a> by <a href="https://twitter.com/{% twitter %}/" target="_blank" rel="noopener noreferrer">{% author %}</a></div>
             <div></div>
             <div><a class="button" href="https://buymeacoff.ee/{% bmc %}/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
         </nav>
@@ -135,7 +135,7 @@
         </div>
         
         <div>
-            <hr><p><a class="blog" href="/"></a> © {% year %}</p><hr>
+            <hr><p><span class="blog"></span> © {% year %}</p><hr>
         </div>
         
     </footer>
@@ -144,8 +144,10 @@
     
     <script src="https://unpkg.com/quicklink@2.0.0/dist/quicklink.umd.js"></script>
     
-   
     <script>window.addEventListener("load", () => quicklink.listen());</script>
+    
+    <script>navigator.serviceWorker.register("/assets/sw.js");</script>
+    
     
     
 </body>

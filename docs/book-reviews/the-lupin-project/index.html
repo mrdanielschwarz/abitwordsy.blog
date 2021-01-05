@@ -332,7 +332,7 @@ blockquote {
    
     <header>
         <nav id="nav">
-            <div><a class="blog" href="/"></a> by <a href="https://twitter.com/abitwordsy/" target="_blank">Rebeka Schwarz</a></div>
+            <div><a class="blog" href="/"></a> by <a href="https://twitter.com/abitwordsy/" target="_blank" rel="noopener noreferrer">Rebeka Schwarz</a></div>
             <div></div>
             <div><a class="button" href="https://buymeacoff.ee/abitwordsy/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
         </nav>
@@ -394,7 +394,7 @@ blockquote {
         </div>
         
         <div>
-            <hr><p><a class="blog" href="/"></a> © 2021</p><hr>
+            <hr><p><span class="blog"></span> © 2021</p><hr>
         </div>
         
     </footer>
@@ -403,8 +403,10 @@ blockquote {
     
     <script src="https://unpkg.com/quicklink@2.0.0/dist/quicklink.umd.js"></script>
     
-   
     <script>window.addEventListener("load", () => quicklink.listen());</script>
+    
+    <script>navigator.serviceWorker.register("/assets/sw.js");</script>
+    
     
     
 </body>
