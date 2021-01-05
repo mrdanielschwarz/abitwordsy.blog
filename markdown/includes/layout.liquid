@@ -75,7 +75,7 @@
    
     <header>
         <nav id="nav">
-            <div><a class="blog" href="/"></a> by <a href="https://twitter.com/{% twitter %}/" target="_blank" rel="noopener noreferrer">{% author %}</a></div>
+            <div><a href="/" class="blog">{% blog %}</a> by <a href="https://twitter.com/{% twitter %}/" target="_blank" rel="noopener noreferrer">{% author %}</a></div>
             <div></div>
             <div><a class="button" href="https://buymeacoff.ee/{% bmc %}/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
         </nav>
@@ -128,14 +128,14 @@
            
             <hr>
             
-            <h1>Support <span id="footer-span">me<span id="footer-span-span" class="blog"><br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
+            <h1>Support <span id="footer-span">me<span id="footer-span-span" class="blog">{% blog %}<br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
             
             <a class="button" href="https://buymeacoff.ee/{% bmc %}/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a>
             
         </div>
         
         <div>
-            <hr><p><span class="blog"></span> © {% year %}</p><hr>
+            <hr><p><span class="blog">{% blog %}</span> © {% year %}</p><hr>
         </div>
         
     </footer>
