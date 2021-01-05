@@ -18,11 +18,7 @@ self.addEventListener("install", function(event) {
            after making HTTP requests for each of them.
         */
         return cache.addAll([
-          '/',
-          '/img-no.svg',
-          '/img-ux.svg',
-          '/font-700.woff2',
-          '/font-900.woff2'
+          '/'
         ]);
       })
       .then(function() {

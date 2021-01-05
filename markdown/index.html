@@ -8,10 +8,8 @@ description: "description"
 
 ---
 
-<header>
-    <hr>
-    <h1>Welcome to <span class="blog">{% blog %}</span></h1>
-    <hr>
+<header class="w-1x">
+    <hr><h1>Welcome to <span class="blog">{% blog %}</span></h1><hr>
 </header>
 
 <div id="lists">
@@ -31,7 +29,7 @@ description: "description"
                     
                     <p><time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time></p>
                     
-                    <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+                    <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
                     
                     <hr>
                     
@@ -50,14 +48,14 @@ description: "description"
 
         <div class="list">
 
-            {% for article in collections.book-reviews reversed %}
+            {% for article in collections.home reversed %}
                 <article>
                    
                     <hr>
                     
                     <p><time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time></p>
                     
-                    <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+                    <h3><a href="{{ article.url }}">{{ article.data.title }}</a></h3>
                     
                     <hr>
                     

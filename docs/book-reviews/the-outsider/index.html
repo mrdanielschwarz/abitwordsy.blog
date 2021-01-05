@@ -5,7 +5,7 @@
 <head>
   
   
-   
+  
     <title>Book Review: The Outsider by Stephen King ~ A Bit Wordsy</title>
     
     
@@ -28,21 +28,21 @@
     
     
     
+    
     <meta property="og:description" content="My 4.5-star review of Stephen King’s 2019 novel, “The Outsider.”">
     
     <meta property="og:title" content="Book Review: The Outsider by Stephen King ~ A Bit Wordsy">
     
     <meta property="og:url" content="https://abitwordsy.blog/book-reviews/the-outsider/">
     
-    <!-- dw for index -->
     <meta property="og:image" content="/images/the-outsider.jpg">
     
-    <!-- -->
+    
+    
     <style>:root {
     /** Colors dark modeeee **/
     /** resp **/
     --c-1: 128 10% 100%;
-    --c-8: 128 10% 70%;
     --c-17: 128 10% 36%;
     --c-25: 128 10% 4%;
     /** Wrappers (1x, 0.5x) **/
@@ -65,8 +65,8 @@
     --s-00-03: calc(var(--s-00) * 0.3);
     --s-00-05: calc(var(--s-00) * 0.5);
     /** Typescale **/
-    --l-p: 1.7;
-    --f-p: 1.7rem;
+    --l-p: 1.8;
+    --f-p: 1.8rem;
     --l-scale: 0.1;
     --f-scale: 1.25;
     --f-h3: calc(var(--f-p) * var(--f-scale));
@@ -109,11 +109,6 @@
     -webkit-font-smoothing: antialiased;
     -webkit-tap-highlight-color: transparent;
     font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
-}
-
-.blog {
-    font-weight: 900;
-    font-family: "Recursive", -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
 }
 
 *:focus {
@@ -172,15 +167,17 @@ hr {
     height: 0;
 }
 
+i {
+    color: hsl(var(--c-17));
+}
+
 a {
     color: inherit;
     display: inline-flex;
-    text-decoration: underline hsl(var(--c-17)) solid 0.3rem;
+    text-decoration: underline;
+    text-decoration-color: hsl(var(--c-17));
+    text-decoration-thickness: 0.3rem;
     text-underline-position: under;
-}
-
-i {
-    color: hsl(var(--c-17));
 }
 
 .button {
@@ -206,24 +203,58 @@ i {
     padding: var(--w-1x);
 }
 
-article time {
-    color: hsl(var(--c-17));
+.blog {
+    font-weight: 900;
+    font-family: "Recursive", -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
 }
 
+
+
+
+
+
+
+
+
+
 #nav {
+    gap: 1rem;
     display: grid;
     align-items: center;
-    padding: var(--w-1x);
-    grid-template-columns: auto 1fr auto;
+    padding: var(--w-1x) var(--w-1x) 0;
 }
+
+@media (max-width: 639px) {
+
+    #nav .blog {
+        display: block;
+    }
+
+}
+
+@media (min-width: 640px) {
+    #nav {
+        grid-template-columns: auto 1fr auto;
+    }
+    
+
+}
+
+
 
 #lists {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: var(--w-1x) var(--w-1x) 0;
-    gap: var(--w-1x);
-    max-width: 144rem;
     margin: 0 auto;
+    gap: var(--w-1x);
+    max-width: 96rem;
+    padding: 0 var(--w-1x);
+}
+
+
+@media (min-width: 640px) {
+    #lists {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .list {
@@ -231,6 +262,16 @@ article time {
     display: inline-grid;
     padding-top: var(--w-1x);
 }
+
+
+.list time {
+    color: hsl(var(--c-17));
+}
+
+
+
+
+
 
 #article img {
     width: 100%;
@@ -240,6 +281,45 @@ article time {
 #article img ~ img {
     border-radius: 5.8rem;
 }
+
+
+
+#article h1,
+#article h2,
+#article h3,
+#article p,
+#article ul,
+blockquote {
+    max-width: 64rem;
+    margin: 2.5rem auto;
+}
+
+#article {
+    text-align: left;
+}
+
+
+
+
+article svg {
+    width: 100%;
+    height: var(--w-1x);
+    margin-bottom: calc(var(--w-1x) * -1);
+    position: relative;
+    transform: rotate(180deg);
+}
+
+
+#article blockquote {
+    padding-left: 1rem;
+    font-weight: 700;
+    border-left: 0.3rem solid hsl(var(--c-17));
+}
+#content {padding:  var(--w-1x) var(--w-1x) 0;}
+
+
+
+
 
 #footer {
     padding: var(--w-1x);
@@ -257,41 +337,20 @@ article time {
     color: hsl(var(--c-17));
 }
 
-#footer-span-span {
-    font-size: 1.6rem;
-    position: absolute;
-    top: -7rem;
-    right: -3rem;
-    transform: rotate(3deg);
-}
 
-#article h1,
-#article h2,
-#article h3,
-#article p,
-#article ul,
-blockquote {
-    max-width: 64rem;
-    margin: 2.5rem auto;
-}
 
-#article {
-    text-align: left;
-}
+@media (min-width: 960px) {
+    #footer-span-span {
+        display: block;
+        font-size: 1.6rem;
+        position: absolute;
+        top: -7rem;
+        right: -3rem;
+        transform: rotate(3deg);
+    }
 
-article svg {
-    width: 100%;
-    height: 100px;
-    margin-bottom: -100px;
-    position: relative;
-    transform: rotate(180deg);
 }
-
-blockquote {
-    padding-left: 1rem;
-    font-weight: 700;
-    border-left: 0.3rem solid hsl(var(--c-17));
-}</style>
+</style>
     
     
     
@@ -299,9 +358,9 @@ blockquote {
     
     <link rel="canonical" href="https://abitwordsy.blog/book-reviews/the-outsider/">
     
-    <link rel="icon" href="/assets/icon-512x512.png" sizes="512x512" type="image/png">
+    <link rel="icon" href="/icon-512x512.png" sizes="512x512" type="image/png">
     
-    <link rel="apple-touch-icon" href="/assets/icon-192x192.png" sizes="192x192" type="image/png">
+    <link rel="apple-touch-icon" href="/icon-192x192.png" sizes="192x192" type="image/png">
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Recursive:wght@900&display=swap">
     
@@ -309,13 +368,14 @@ blockquote {
     
     
     
-    <!-- sw -->
-    <!-- sa -->
-    <!-- schema -->
     <!-- localize -->
+    <!-- sa -->
+    <!-- PWA -->
+    
+    <!-- schema -->
     <!-- fix image -->
-    <!-- assets/home og -->
     <!-- signed -->
+    <!-- styles -->
     <!-- responsive images -->
     
     
@@ -328,7 +388,7 @@ blockquote {
    
     <header>
         <nav id="nav">
-            <div><a href="/" class="blog">A Bit Wordsy</a> by <a href="https://twitter.com/abitwordsy/" target="_blank" rel="noopener noreferrer">Rebeka Schwarz</a></div>
+            <div><p><a href="/" class="blog">A Bit Wordsy</a> by <a href="https://twitter.com/abitwordsy/" target="_blank" rel="noopener noreferrer">Rebeka Schwarz</a></p></div>
             <div></div>
             <div><a class="button" href="https://buymeacoff.ee/abitwordsy/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
         </nav>
@@ -341,33 +401,37 @@ blockquote {
         
            
             <article id="article">
+              
+                <header class="w-1x">
                
-                <hr>
-                <h1>Book Review: The Outsider by Stephen King</h1>
+                    <hr>
+                    <h1>Book Review: The Outsider by Stephen King</h1>
 
-                <blockquote>“...”</blockquote>
+                    <blockquote>“...”</blockquote>
+
+                    <ul>
+                        <li>Rating: 4.5 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></li>
+                        <li>Published in: May 2018</li>
+                        <li>Read in: January 2020</li>
+                    </ul>
+
+                    <hr>
                 
-                <ul>
-                    <li>Rating: 4.5 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></li>
-                    <li>Published in: May 2018</li>
-                    <li>Read in: January 2020</li>
-                </ul>
-                
-                <hr>
+                </header>
 
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none"><path fill="hsl(var(--c-1))" d="M0 160l12.6-16C25.3 128 51 96 76 117.3c25.1 21.7 50 95.7 76 85.4C176.8 192 202 96 227 48c25.6-48 51-48 76-42.7 25.4 5.7 51 15.7 76 48 25.2 31.7 50 85.7 76 85.4 25 .3 50-53.7 76-74.7 24.8-21 50-11 75 37.3 25.6 47.7 51 133.7 76 160 25.4 26.7 51-5.3 76-42.6 25.2-37.7 50-79.7 76-64 24.9 16.3 50 90.3 75 106.6 25.7 15.7 51-26.3 76-53.3 25.5-27 51-37 76-42.7 25.3-5.3 51-5.3 76-16 25.1-10.3 50-32.3 76-32 24.9-.3 50 21.7 75 16 25.7-5.3 51-37.3 76-21.3 25.5 16 51 80 63 112l13 32v64H0z"></path></svg>
 
                 <img src="/images/the-outsider.jpg" alt="Book Review: The Outsider by Stephen King">
                
-                <p><em><strong>The body of an 11-year old boy is found in a park. He's been violated and brutally murdered. All evidence points to a much-loved member of the town- Terry Maitland; loving husband, father of 2 girls, and the town's Little League coach. Witnesses and DNA evidence all point to him and Detective Ralph Anderson, whose own son was coached by Terry, sickened by the crime, orders a very public and immediate arrest, turning the whole town against Terry and his family. But what happens when Terry Maitland produces a concrete alibi? Is it possible for a man to be in 2 places at once? Could this beloved friend of the town and all round nice guy really have committed such a horrendous act?</strong></em></p>
+                <div id="content">
+                    <hr><p><em><strong>The body of an 11-year old boy is found in a park. He's been violated and brutally murdered. All evidence points to a much-loved member of the town- Terry Maitland; loving husband, father of 2 girls, and the town's Little League coach. Witnesses and DNA evidence all point to him and Detective Ralph Anderson, whose own son was coached by Terry, sickened by the crime, orders a very public and immediate arrest, turning the whole town against Terry and his family. But what happens when Terry Maitland produces a concrete alibi? Is it possible for a man to be in 2 places at once? Could this beloved friend of the town and all round nice guy really have committed such a horrendous act?</strong></em></p>
 <p><strong>The Outsider</strong> had Stephen King written all over it, not just the cover. Oh so suspenseful, unnerving, disturbing, emotional, and definitely not for the faint of heart (don't forget, this is King and he's fine with killing a kid in his books).</p>
 <p>I've never wanted to get to the bottom of a crime so much, I really felt the confusion and inner turmoil of Detective Anderson. I couldn't believe that this man committed such a sick, depraved act. If you read it, you'll wonder how anyone could. Yet, all of the evidence goes against your gut. We, the reader, had one advantage over Detective Anderson though, we know Stephen King, which means we know that evidence doesn't mean shit. As soon as that iron clad alibi is introduced, our supernatural radar is sounding off.</p>
 <p>I found Detective Ralph Anderson's character so perfectly human and this was one of the reasons I loved this book so much. He wanted to be a good detective, he wanted to believe the evidence in front of him, but in his heart of hearts he couldn't believe his friend and son's coach could do this. To see his relationship with Holly Gibney (another much-loved Stephen King character, who appears in his <strong>Mr Mercedes</strong> books for those who don't know) and the way this relationship helped his character develop and broadened his mind was beautiful. King really does write the best characters, doesn't he? I think this is why he's considered by many to the best in the genre. You care about the characters and this adds an extra element of fear.</p>
 <p>I don't want to say much more, this book is hard to review without spoiling it. Despite loving this novel, I've given it 4.5 stars because the ending was a bit lacklustre, but you shouldn't let that put you off because the journey up to it is spectacular.</p>
 <p><strong><a href="https://www.amazon.com/Outsider-Novel-Stephen-King/dp/1501180983">Buy the book on Amazon</a>.</strong></p>
-
-                
-                <hr>
+<hr>
+                </div>
                 
             </article>
             
@@ -383,7 +447,7 @@ blockquote {
            
             <hr>
             
-            <h1>Support <span id="footer-span">me<span id="footer-span-span" class="blog">A Bit Wordsy<br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
+            <h1>Support <span id="footer-span">me<span hidden id="footer-span-span" class="blog">A Bit Wordsy<br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
             
             <a class="button" href="https://buymeacoff.ee/abitwordsy/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a>
             
@@ -401,7 +465,7 @@ blockquote {
     
     <script>window.addEventListener("load", () => quicklink.listen());</script>
     
-    <script>navigator.serviceWorker.register("/assets/sw.js");</script>
+    <script>navigator.serviceWorker.register("/sw.js");</script>
     
     
     

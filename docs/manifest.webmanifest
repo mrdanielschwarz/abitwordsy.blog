@@ -5,7 +5,7 @@
     "start_url": "/?ref=PWA",
     
     "name": "A Bit Wordsy",
-    "short_name": " Bit Wordsy",
+    "short_name": "A Bit Wordsy",
     
     "theme_color": "white",
     "background_color": "white",
@@ -14,12 +14,12 @@
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any maskable",
-        "src": "/assets/icon-192x192.png"
+        "src": "/icon-192x192.png"
     }, {
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable",
-        "src": "/assets/icon-512x512.png"
+        "src": "/icon-512x512.png"
     }]
     
 }
