@@ -8,25 +8,33 @@ description: "description"
 
 ---
 
-<h1>Welcome to <a href="/" class="blog"></a></h1>
+<header>
+    <hr>
+    <h1>Welcome to <a href="/" class="blog"></a></h1>
+    <hr>
+</header>
 
 <div id="lists">
 
     <section>
 
+        <hr>
         <h2>Reviews</h2>
+        <hr>
 
         <div class="list">
 
             {% for article in collections.home reversed %}
                 <article>
-                    <h2>
-
-                        <time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time>
-
-                        <a href="{{ article.url }}">{{ article.data.title }}</a>
-
-                    </h2>
+                   
+                    <hr>
+                    
+                    <p><time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time></p>
+                    
+                    <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+                    
+                    <hr>
+                    
                 </article>
             {% endfor %}
 
@@ -36,19 +44,23 @@ description: "description"
 
     <section>
 
+        <hr>
         <h2>Fiction</h2>
+        <hr>
 
         <div class="list">
 
             {% for article in collections.book-reviews reversed %}
                 <article>
-                    <h2>
-
-                        <time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time>
-
-                        <a href="{{ article.url }}">{{ article.data.title }}</a>
-
-                    </h2>
+                   
+                    <hr>
+                    
+                    <p><time datetime="{{ article.data.date | datetime }}">{{ article.data.date | friendly }}</time></p>
+                    
+                    <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
+                    
+                    <hr>
+                    
                 </article>
             {% endfor %}
 

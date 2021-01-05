@@ -4,6 +4,10 @@ module.exports = (function (eleventyConfig) {
     
     
     
+    eleventyConfig.setWatchJavaScriptDependencies(false);
+    
+    
+    
     eleventyConfig.addShortcode("bmc", () => "abitwordsy");
     
     eleventyConfig.addShortcode("twitter", () => "abitwordsy");
