@@ -12,7 +12,7 @@ released: June 2020
 
 tags: ["home", "book-review"]
 
-title: "Book Review: Mexican Gothic by Silvia Moreno-Gracia"
+title: "Book Review: Mexican Gothic by Silvia Moreno-Garcia"
 
 blockquote: "“...”"
 

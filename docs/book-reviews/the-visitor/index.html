@@ -1,0 +1,322 @@
+<!doctype html>
+
+<html lang="en-GB">
+
+    <head>
+   
+    <title>Book Review: The Visitor by Sergio Gomez</title>
+    
+    <meta charset="UTF-8">
+    
+    <meta name="theme-color" content="white">
+    <meta name="description" content="My 4-star review of Sergio Gomez’s Christmas horror novella “The Visitor.”">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="twitter:site" content="@abitwordsy">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <meta property="og:url" content="https://abitwordsy.blog/">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    
+    <style>
+        :root {
+            /** Colors **/
+            
+            --c-1: 128 10% 100%;
+            --c-8: 128 10% 70%;
+            --c-17: 128 10% 36%;
+            --c-25: 128 10% 4%;
+            
+            /** Wrappers (1x, 0.5x) **/
+            --w-1x: calc(7.5vw + 0.8rem);
+            --w-05x: calc(var(--w-1x) * 0.5);
+            /** Buttons (s, m, l, f, c) **/
+            --s-48: 4.8rem;
+            --s-48-03: calc(var(--s-48) * 0.3);
+            --s-48-05: calc(var(--s-48) * 0.5);
+            --s-58: 5.8rem;
+            --s-58-03: calc(var(--s-58) * 0.3);
+            --s-58-05: calc(var(--s-58) * 0.5);
+            --s-68: 6.8rem;
+            --s-68-03: calc(var(--s-68) * 0.3);
+            --s-68-05: calc(var(--s-68) * 0.5);
+            --s-98: 9.8rem;
+            --s-98-03: calc(var(--s-98) * 0.3);
+            --s-98-05: calc(var(--s-98) * 0.5);
+            --s-00: calc(var(--w-1x) * 2);
+            --s-00-03: calc(var(--s-00) * 0.3);
+            --s-00-05: calc(var(--s-00) * 0.5);
+            /** Typescale **/
+            --l-p: 1.7;
+            --f-p: 1.7rem;
+            --l-scale: 0.1;
+            --f-scale: 1.25;
+            --f-h3: calc(var(--f-p) * var(--f-scale));
+            --f-h2: calc(var(--f-h3) * var(--f-scale));
+            --f-h1: calc(var(--f-h2) * var(--f-scale));
+            --l-h3: calc(var(--l-p) - var(--l-scale));
+            --l-h2: calc(var(--l-h3) - var(--l-scale));
+            --l-h1: calc(var(--l-h2) - var(--l-scale));
+            /** Shadow **/
+            --shadow: 0 0 var(--w-05x) hsl(var(--c-25) / 30%);
+        }
+
+        ::selection {
+            background: hsl(var(--c-8));
+        }
+
+        @keyframes beat {
+            10% {
+                transform: scale(1.02);
+            }
+
+            20% {
+                transform: scale(0.98);
+            }
+
+            30% {
+                transform: scale(1.0);
+            }
+
+            100% {
+                transform: scale(1.0);
+            }
+        }
+
+        * {
+            margin: 0;
+            border: none;
+            box-sizing: border-box;
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            -webkit-tap-highlight-color: transparent;
+            font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+        }
+
+        *:focus {
+            outline: none;
+        }
+
+        *:not(input):focus-visible {
+            animation: beat 1000ms infinite;
+        }
+
+        html {
+            font-size: 62.5%;
+        }
+
+        body {
+            text-align: center;
+            padding: var(--w-1x);
+            color: hsl(var(--c-25));
+        }
+
+        body,
+        input,
+        button {
+            font-size: 1.6rem;
+        }
+
+        h1 {
+            font-weight: 900;
+            font-size: var(--f-h1);
+            line-height: var(--l-h1);
+        }
+
+        h2 {
+            font-weight: 900;
+            font-size: var(--f-h2);
+            line-height: var(--l-h2);
+        }
+
+        h3 {
+            font-weight: 900;
+            font-size: var(--f-h3);
+            line-height: var(--l-h3);
+        }
+
+        p,
+        ul {
+            font-size: var(--f-p);
+            line-height: var(--l-p);
+        }
+
+        ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        li:before {
+            content: "\200B";
+        }
+
+        hr {
+            width: 0;
+            height: 0;
+        }
+
+        i+span {
+            margin-left: 1rem;
+        }
+
+        a {
+            color: inherit;
+            display: inline-flex;
+            text-underline-position: under;
+        }
+
+   
+ 
+
+        .button,button {text-decoration: none;place-items: center;
+        place-content: center;
+        color: hsl(var(--c-1));font-weight: 700;
+        background: hsl(var(--c-17)); box-shadow: var(--shadow);height: var(--s-58);
+        padding: 0 var(--s-58-05);
+        border-radius: var(--s-58-03);
+        display: inline-flex;
+           
+        }
+
+        .button:hover,button:hover {
+        filter: brightness(110%);
+        }
+
+
+   
+        .w-1x {
+            padding: var(--w-1x);
+            
+        }
+
+        header {
+            margin-bottom: var(--w-1x);
+        }
+
+        h2 time {
+            display: block;
+            font-size: 1.6rem;
+            color: hsl(var(--c-17));
+            transform: rotate(-3deg);
+        }
+            
+    </style>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    
+    <link rel="canonical" href="https://abitwordsy.blog/">
+    
+    <!--<link rel="manifest" href="//cdn.shopify.com/s/files/1/2839/3930/t/2/assets/manifest.webmanifest?v=5583525515540984804">-->
+    
+    <link rel="icon" href="" sizes="512x512" type="image/png">
+    
+    <link rel="apple-touch-icon" href="/" sizes="192x192" type="image/png">
+    
+    <!-- PWA -->
+    <!-- sa -->
+    <!-- bmac -->
+    <!-- schema -->
+    
+    <script defer src="https://unpkg.com/quicklink@2.0.0/dist/quicklink.umd.js"></script>
+    
+    <script>
+        window.addEventListener("load", () => {
+            quicklink.listen();
+        });
+    </script>
+    
+</head>
+
+    <body>
+   
+    <header>
+       
+        <nav id="nav">
+            <div><a href="/">A Bit Wordsy</a>, by <a href="https://twitter.com/abitwordsy/" target="_blank">Rebeka Schwarz</a></div>
+            <div></div>
+            <div><a class="button" href="https://buymeacoff.ee/abitwordsy/">Buy Me A Coffee</a></div>
+        </nav>
+        
+        <style>
+            
+            #nav {
+                display: grid;
+                font-weight: 700;
+                align-items: center;
+                grid-template-columns: auto 1fr auto;
+            }
+
+            #list {
+                gap: var(--w-1x);
+                display: inline-grid;
+                margin: var(--w-1x) auto 0;
+            }
+            
+            #article img {
+                
+                width: 100%;
+                max-width: 96rem;
+                border-radius: var(--s-68-05);
+                
+            }
+            
+            #footer-div {
+               
+                padding: var(--w-1x);
+                margin: var(--w-1x) auto;
+                border-radius: var(--s-68-05);
+                border: 1rem solid hsl(var(--c-25));
+            }
+                        
+            #footer-span { position: relative; color: hsl(var(--c-17)); }
+            
+            #footer-span-span { font-size: 1.6rem; position: absolute; top: -7rem; right: -3rem; transform: rotate(3deg); }
+            
+            h1, h2, h3, p { max-width: 64rem; margin: 2.5rem auto; }
+            
+            #article { text-align: left; }
+            
+            i { color: hsl(var(--c-17)); }
+            
+        </style>
+        
+    </header>
+    
+    <main>
+        
+        
+        
+            <article id="article"><h1>Book Review: The Visitor by Sergio Gomez</h1>
+<p><img src="/images/the-visitor-book-cover.jpg" alt=""></p>
+<p><em>Published in December 2020, read in December 2020.</em></p>
+<p><strong>My rating: 4 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>&lt;i class=&quot;far fa-star&quot;</i></strong></p>
+<p><em><strong>On Christmas, in the middle of one of the worst snowstorms Indiana has seen, a group of 5 strangers are left with no choice but to find shelter inside a roadside diner. As the storm worsens with no end in sight, the worst is still yet to come with a sixth visitor on their way to the diner, and they’re not bringing festive cheer.</strong></em></p>
+<p>This Christmas-themed horror novella was such an entertaining little read. It was exactly what I needed to get me in the mood for the holidays. It was action-packed, full of wintery imagery, and it had me on the edge of my seat all the way through. It was also refreshing to read, because I feel like aliens are few and far between when it comes to horror.</p>
+<p>The thing that amazed me about this book, and this is obviously a clear strength of the author, is that I became attached to the characters in such a short amount of time. He created such vivid, relatable characters that you really root for (for the most part). I wasn’t expecting this, so it was a welcome surprise.</p>
+<p>Sergio Gomez is great at descriptive writing. The setting was so fantastically written that I really got the cold, wintery vibe of the scene. I could almost feel the bitter, icy wind stinging my cheeks! The gore scenes were also excellently written. They had me wincing with an impressive picture of the bloody mess and sounds that accompanied all the gore.</p>
+<p>After reading <strong>The Visitor</strong>, I’m dreaming of a red Christmas and I’m excited to read some more of Sergio Gomez’s work in the coming year. I’m glad to be able to add another indie author to my growing list. It was a perfectly paced, action packed, nail-biting read, and it hit the festive spot perfectly.</p>
+<p><strong><a href="https://www.amazon.com/Visitor-Horror-Novella-Sergio-Gomez-ebook/dp/B08J6M5ZYZ">Buy the book on Amazon</a>.</strong></p>
+</article>
+        
+        
+    
+    </main>
+    
+    <footer id="footer">
+    
+        <div id="footer-div">
+           
+           <h1>Support <span id="footer-span">me <span id="footer-span-span">A Bit Wordsy<br><i class="fas fa-angle-double-up"></i></span></span> on<br>Buy Me A Coffee</h1>
+           
+           <a class="button" href="https://buymeacoff.ee/abitwordsy/">Buy Me A Coffee</a>
+            
+        </div>
+    
+        <a href="/">A Bit Wordsy</a> © 2021
+    
+    </footer>
+    
+</body>
+
+</html>
