@@ -59,12 +59,8 @@
     
     <!-- localize -->
     <!-- sa -->
-    <!-- PWA -->
     
     <!-- schema -->
-    <!-- fix image -->
-    <!-- signed -->
-    <!-- styles -->
     <!-- responsive images -->
     
     
@@ -117,7 +113,7 @@
                 <img src="/images/{{ page.fileSlug }}.jpg" alt="{{ title }}">
                
                 <div id="content">
-                    <hr>{{ content }}<hr>
+                    <hr>{{ content | replace: "<p><img", "<img" | replace: "></p>", ">" }}<hr>
                 </div>
                 
             </article>
