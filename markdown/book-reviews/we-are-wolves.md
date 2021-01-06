@@ -1,13 +1,10 @@
-
-
-
 ---
 
 rating: 5
 
 layout: layout
 
-date: 2021–01-06
+date: 2021-01-06
 
 read: January 2021
 
@@ -22,7 +19,6 @@ blockquote: "“Because we are not the sum of our damaged parts, we are not the 
 description: "My 5-star review of “We Are Wolves” from Burial Day"
 
 ---
-
 
 **“Do you remember, Detective, the absolute worst time someone told you to smile?”- Though Your Heart is Breaking, Laurel Hightower.**
 
