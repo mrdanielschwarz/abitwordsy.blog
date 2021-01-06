@@ -2,7 +2,7 @@ const moment = require("moment-timezone");
 
 const markdownIt = require("markdown-it");
 
-const markdownItResponsive = require("markdown-it-responsive");
+const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 
 
 
