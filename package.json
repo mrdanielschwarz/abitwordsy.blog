@@ -1,18 +1,24 @@
 {
-  "name": "abitwordsy.blog",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.11.1"
-  }
+    "name": "abitwordsy.blog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@11ty/eleventy": "^0.3.3"
+    },
+    "dependencies": {
+        "markdown-it": "^8.4.2",
+        "markdown-it-responsive": "^0.1.0",
+        "moment": "^2.29.1",
+        "moment-timezone": "^0.5.32"
+    }
 }
