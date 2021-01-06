@@ -12,7 +12,7 @@ released: December 2020
 
 tags: ["reviews"]
 
-title: "Book Review: We Are Wolves Edited by Gemma Amor, Laurel Hightower and Cynthia Pelayo"
+title: "Book Review: We Are Wolves edited by Gemma Amor, Laurel Hightower and Cynthia Pelayo"
 
 blockquote: "“Because we are not the sum of our damaged parts, we are not the Bad Things that happen to us, we are not the weariness we feel as we push, push, push.”- Foreword, Gemma Amor"
 
