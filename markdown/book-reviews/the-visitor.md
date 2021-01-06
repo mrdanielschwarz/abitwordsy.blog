@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: The Visitor by Sergio Gomez" 
 
-blockquote: "“...”"
+blockquote: "“For a second, the only lights on in the whole place were the Christmas lights hanging over the stools, like a Christmas miracle. Then, those too went out, leaving the diner in total darkness.”"
 
 description: "My 4-star review of Sergio Gomez’s Christmas horror novella, “The Visitor.”"
 

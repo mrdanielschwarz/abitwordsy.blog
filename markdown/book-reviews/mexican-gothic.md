@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: Mexican Gothic by Silvia Moreno-Garcia"
 
-blockquote: "“...”"
+blockquote: "“Marriage could hardly be like the passionate romances one read about in books. It seemed to her, in fact, a rotten deal. Men would be solicitous and well behaved when they courted a woman, asking her out to parties and sending her flowers, but once they married, the flowers wilted.”"
 
 description: "My 4.5-star review of Silvia Moreno-Garcia’s 2020 novel, “Mexican Gothic.”"
 

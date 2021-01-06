@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: Christmas in the Empty Cabin and other Holiday Tales by E. Reyes"
 
-blockquote: "“...”"
+blockquote: "“Where the hell am I?” Jake said to himself. He was lying on a cold, hard floor. He opened his eyes and realized he was in a cave. The jagged rocks hung above him like a roomy casket.”- Christmas in the Empty Cabin"
 
 description: "My 3.5-star review of Christmas in the Empty Cabin and other Holiday Tales by E. Reyes.”"
 

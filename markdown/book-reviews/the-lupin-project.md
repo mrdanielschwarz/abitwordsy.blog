@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: The Lupin Project by Allan Leverone"
 
-blockquote: "“...”"
+blockquote: "“They stared unblinkingly at the Chevy, and Eddie had the disturbing sensation that the eyes could see right into the car; that not only could they see inside it but that they could sense the fear and confusion of its occupants.”"
 
 description: "My 4-star review of Allan Leverone’s “The Lupin Project.”"
 

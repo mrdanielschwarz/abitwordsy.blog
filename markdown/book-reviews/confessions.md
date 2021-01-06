@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: Confessions by Kanae Minato"
 
-blockquote: "“...”"
+blockquote: "“Human beings have a fundamental need for physical and emotional space, and the desire to extinguish another life can arise when the boundaries of that space are violated.”"
 
 description: "My 5-star review of Kanae Minato’s “Confessions.”"
 

@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: Men Without Women by Haruki Murakami"
 
-blockquote: "“...”"
+blockquote: "“I wish there was a machine that could accurately measure sadness, and display it in numbers that you could record.”"
 
 description: "My 3.5-star review of Haruki Murakami’s short story collection, “Men Without Women.”"
 

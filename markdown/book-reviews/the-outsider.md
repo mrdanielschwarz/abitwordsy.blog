@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: The Outsider by Stephen King"
 
-blockquote: "“...”"
+blockquote: "“Reality is thin ice, but most people skate on it their whole lives and never fall through until the very end. We did fall through, but we helped each other out. We’re still helping each other.”"
 
 description: "My 4.5-star review of Stephen King’s 2019 novel, “The Outsider.”"
 

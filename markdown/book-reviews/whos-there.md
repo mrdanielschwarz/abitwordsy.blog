@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: Who’s There? A Collection of Stories by Dimas Rio"
 
-blockquote: "“...”"
+blockquote: "“Mankind has been given lands to cultivate , seas to navigate and skies to admire , yet they betray God’s trust , by ripping apart the Earth’s womb , flooding its oceans with waste and poisoning its skies with smoldering carbon emissions.”- The Forest Protector"
 
 description: "My 4.5-star review of Dimas Rio’s “Who’s There? A Collection of Stories.”"
 

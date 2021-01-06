@@ -14,7 +14,7 @@ tags: ["reviews"]
 
 title: "Book Review: The Girl in The Mirror by Steven Ramirez" 
 
-blockquote: "“...”"
+blockquote: "“It was the screaming that woke Sarah Greene. Her screaming. Sitting up, she tried calming her jackhammering heart by using a breathing technique she’d learned from a psychologist years ago.”"
 
 description: "My 4-star review of Steven Ramirez’s “The Girl in The Mirror.”"
 
