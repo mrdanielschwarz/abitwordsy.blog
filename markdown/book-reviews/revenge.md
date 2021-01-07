@@ -22,8 +22,6 @@ description: "My 5-star review of Yōko Ogawa’s short story collection, “Rev
 
 A writer moves into a new apartment to discover that her widowed landlady grows carrots mysteriously shaped like hands, a woman becomes obsessed with death after suffering a heartbreaking tragedy, a jealous woman seeks revenge on her lover, a man curates antiques at a museum of torture. The lives of these characters all subtly intertwine in eleven chilling tales.
 
-![](/images/revenge.jpg)
-
 I give **Revenge: Eleven Dark Tales** 5/5 stars. This collection contains a little bit of everything I love. It’s dark, Gothic, heartbreaking, melancholic, terrifying at times, and mysterious.
 
 I knew from the first story that I was going to devour this book. Titled so unsuspectingly, **Afternoon at The Bakery** tells the story of a woman who goes into town to a bakery to buy some strawberry shortcakes for her son’s birthday. While she waits to be served, she strikes up a conversation with another woman in which she reveals her devastating loss with this one heart-wrenching piece of dialogue:
