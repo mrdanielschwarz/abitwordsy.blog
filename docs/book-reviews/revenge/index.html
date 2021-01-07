@@ -43,6 +43,7 @@
     /** Colors dark modeeee **/
     /** resp **/
     --c-1: 128 10% 100%;
+    --c-2: 128 10% 96%;
     --c-17: 128 10% 36%;
     --c-25: 128 10% 4%;
     /** Wrappers (1x, 0.5x) **/
@@ -195,9 +196,29 @@ a {
     display: inline-flex;
 }
 
+
+.button.square {
+
+
+color:hsl(var(--c-25));
+width: 5.8rem;
+background: hsl(var(--c-2));
+box-shadow: none;
+
+}
+
+
 .button:hover {
     filter: brightness(110%);
 }
+
+
+.button.square:hover {
+    filter: brightness(90%);
+}
+
+
+
 
 .w-1x {
     padding: var(--w-1x);
@@ -218,8 +239,8 @@ a {
 
 
 #nav {
-    gap: 1rem;
     display: grid;
+    gap: 3.2rem;
     align-items: center;
     padding: var(--w-1x) var(--w-1x) 0;
 }
@@ -234,10 +255,20 @@ a {
 
 @media (min-width: 640px) {
     #nav {
-        grid-template-columns: auto 1fr auto;
+           justify-items: left;
+        grid-template-columns: 1fr auto;
     }
     
 
+}
+
+
+.square {display:none;}
+
+@media (min-width: 960px) {
+  
+  nav div:last-child a{display:inline-flex;}
+   nav div:last-child{display:grid;grid-template-columns:auto auto auto;gap:2rem;}
 }
 
 
@@ -376,11 +407,7 @@ article svg {
     
     
     
-    <!-- localize -->
-    <!-- sa -->
-    
-    <!-- schema -->
-    <!-- responsive images -->
+    <!-- localize, sa, schema -->
     
     
     
@@ -393,8 +420,8 @@ article svg {
     <header>
         <nav id="nav">
             <div><p><a href="/" class="blog">A Bit Wordsy</a> by <a href="https://twitter.com/abitwordsy/" target="_blank" rel="noopener noreferrer">Rebeka Schwarz</a></p></div>
-            <div></div>
-            <div><a class="button" href="https://buymeacoff.ee/abitwordsy/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
+            
+            <div><a hidden href="https://www.goodreads.com/user/show/24612064-rebeka-schwarz" class="button square"><i class="fab fa-goodreads-g"></i></a><a hidden href="https://twitter.com/abitwordsy/" class="button square"><i class="fab fa-twitter"></i></a><a class="button" href="https://buymeacoff.ee/abitwordsy/" target="_blank" rel="noopener noreferrer">Buy Me A Coffee</a></div>
         </nav>
     </header>
     
@@ -424,12 +451,12 @@ article svg {
                 </header>
 
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none"><path fill="hsl(var(--c-1))" d="M0 160l12.6-16C25.3 128 51 96 76 117.3c25.1 21.7 50 95.7 76 85.4C176.8 192 202 96 227 48c25.6-48 51-48 76-42.7 25.4 5.7 51 15.7 76 48 25.2 31.7 50 85.7 76 85.4 25 .3 50-53.7 76-74.7 24.8-21 50-11 75 37.3 25.6 47.7 51 133.7 76 160 25.4 26.7 51-5.3 76-42.6 25.2-37.7 50-79.7 76-64 24.9 16.3 50 90.3 75 106.6 25.7 15.7 51-26.3 76-53.3 25.5-27 51-37 76-42.7 25.3-5.3 51-5.3 76-16 25.1-10.3 50-32.3 76-32 24.9-.3 50 21.7 75 16 25.7-5.3 51-37.3 76-21.3 25.5 16 51 80 63 112l13 32v64H0z"></path></svg>
-
-                <img src="/images/revenge.jpg" alt="Book Review: Revenge by Yōko Ogawa">
+                
+                <img alt="Book Review: Revenge by Yōko Ogawa" src="/images/revenge-960w.jpg" srcset="/images/revenge-960w.jpg, /images/revenge-1920w.jpg 2x">
                
                 <div id="content">
                     <hr><p>A writer moves into a new apartment to discover that her widowed landlady grows carrots mysteriously shaped like hands, a woman becomes obsessed with death after suffering a heartbreaking tragedy, a jealous woman seeks revenge on her lover, a man curates antiques at a museum of torture. The lives of these characters all subtly intertwine in eleven chilling tales.</p>
-<img src="/images/revenge.jpg" alt="" srcset="/images/revenge-640x.jpg , /images/revenge-1280x.jpg  2xw">
+<img src="/images/revenge.jpg" alt="" srcset="/images/revenge-960w.jpg, /images/revenge-1920w.jpg 2x">
 <p>I give <strong>Revenge: Eleven Dark Tales</strong> 5/5 stars. This collection contains a little bit of everything I love. It’s dark, Gothic, heartbreaking, melancholic, terrifying at times, and mysterious.</p>
 <p>I knew from the first story that I was going to devour this book. Titled so unsuspectingly, <strong>Afternoon at The Bakery</strong> tells the story of a woman who goes into town to a bakery to buy some strawberry shortcakes for her son’s birthday. While she waits to be served, she strikes up a conversation with another woman in which she reveals her devastating loss with this one heart-wrenching piece of dialogue:</p>
 <p><strong>“I’m buying them for my son. Today is his birthday.”</strong>

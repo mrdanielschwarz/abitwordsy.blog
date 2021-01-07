@@ -5,9 +5,9 @@ const markdownIt = require("markdown-it");
 const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 
 
-
+ 
 module.exports = (function (eleventyConfig) {
-
+    
     
 
     eleventyConfig.setWatchJavaScriptDependencies(false);
@@ -74,12 +74,12 @@ module.exports = (function (eleventyConfig) {
                 "*": [{
                     width: "",
                     rename: {
-                        suffix: '-640x'
+                        suffix: '-960w'
                     }
                 }, {
                     width: " 2x",
                     rename: {
-                        suffix: '-1280x'
+                        suffix: '-1920w'
                     }
                 }]
             }
