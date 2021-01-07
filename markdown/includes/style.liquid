@@ -2,6 +2,7 @@
     /** Colors dark modeeee **/
     /** resp **/
     --c-1: 128 10% 100%;
+    --c-2: 128 10% 96%;
     --c-17: 128 10% 36%;
     --c-25: 128 10% 4%;
     /** Wrappers (1x, 0.5x) **/
@@ -154,9 +155,29 @@ a {
     display: inline-flex;
 }
 
+
+.button.square {
+
+
+color:hsl(var(--c-25));
+width: 5.8rem;
+background: hsl(var(--c-2));
+box-shadow: none;
+
+}
+
+
 .button:hover {
     filter: brightness(110%);
 }
+
+
+.button.square:hover {
+    filter: brightness(90%);
+}
+
+
+
 
 .w-1x {
     padding: var(--w-1x);
@@ -177,8 +198,8 @@ a {
 
 
 #nav {
-    gap: 1rem;
     display: grid;
+    gap: 3.2rem;
     align-items: center;
     padding: var(--w-1x) var(--w-1x) 0;
 }
@@ -193,10 +214,20 @@ a {
 
 @media (min-width: 640px) {
     #nav {
-        grid-template-columns: auto 1fr auto;
+           justify-items: left;
+        grid-template-columns: 1fr auto;
     }
     
 
+}
+
+
+.square {display:none;}
+
+@media (min-width: 960px) {
+  
+  nav div:last-child a{display:inline-flex;}
+   nav div:last-child{display:grid;grid-template-columns:auto auto auto;gap:2rem;}
 }
 
 
