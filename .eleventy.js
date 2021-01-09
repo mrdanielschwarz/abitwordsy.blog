@@ -1,3 +1,5 @@
+const htmlmin = require("html-minifier");
+    
 const moment = require("moment-timezone");
 
 const markdownIt = require("markdown-it");
@@ -7,6 +9,21 @@ const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 
  
 module.exports = (function (eleventyConfig) {
+    
+    
+    eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+        if (outputPath.endsWith(".html")) {
+            let minified = htmlmin.minify(content, {
+                minifyCSS: true,
+                removeComments: true,
+                collapseWhitespace: true,
+            });
+            return minified;
+        }
+        return content;
+    });
+        
+        
     
     
 
