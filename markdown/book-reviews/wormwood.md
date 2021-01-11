@@ -12,7 +12,7 @@ released: November 2020
 
 tags: ["reviews"]
 
-title: "Book Review: Wormwood by Chad Lutzke and Tim Meyer”
+title: "Book Review: Wormwood by Chad Lutzke and Tim Meyer"
 
 blockquote: "Love is the scariest and most confusing of all, and he wonders how in the hell love can feel so lonely."
 
