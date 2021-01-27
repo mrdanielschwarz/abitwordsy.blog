@@ -17,7 +17,6 @@ title: "Book Review: Latinx Screams edited by V. Castro and Cynthia Pelayo"
 
 blockquote: "”This girl Ava approached me with her little friend pinning me down. Hate in her eyes that I’ll never forget, with her straight brown hair styled unusually in unnatural ringlets as if to make fun of my own curls in some way.” -Black Sheep by Sarah Davis"
 
-
 description: "My 5-star review of “Latinx Screams” edited by V. Castro and Cynthia Pelayo"
 
 ---
