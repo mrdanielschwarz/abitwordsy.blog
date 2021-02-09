@@ -28,7 +28,9 @@ It has been a long time since I’ve read a vampire novel, but I read a short st
 
 The Gothic imagery in this book is the stuff of my dreams. Beverley Lee describes the atmosphere and setting like the Gothic writers of old. The description was so vivid, it felt like the beautiful, bleak British weather was raging outside my own window. 
 
-I also loved the use of short chapters. It really built suspense and a sense of foreboding until the very end. The use of different POVs was masterfully done too. Multiple POVs is often considered and over done trait and can be very confusing, with all characters kind of blurring into one, but this was not the case here. Every character had their own, distinct voice and development, and I was invested in every one of them. 
+I also loved the use of short chapters. It really built suspense and a sense of foreboding until the very end. The use of different POVs was masterfully done too. Multiple POVs is often considered an overdone trait and can be very confusing, with all characters kind of blurring into one, but this was not the case here. Every character had their own, distinct voice and development, and I was invested in every one of them. 
+
+My only complaint is that life got in the way, so I couldn’t devour the book as quickly as I wanted to!
 
 The Making of Gabriel was everything I love in a book and Beverley Lee is quickly becoming one of my favourite authors. If you love vampires, the occult, and gorgeous, moody Gothic settings, this book is for you. Now excuse me while I go and buy books 2 and 3. 
 
