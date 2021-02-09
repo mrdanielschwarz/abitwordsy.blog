@@ -24,7 +24,7 @@ description: "My 5-star review of “The Making of Gabriel Davenport” by Bever
 
 ***Years later, 15-year-old Gabriel is desperately searching for answers to what happened that mysterious night many years ago- the night that destroyed his family. As he digs deeper, he finds that those closest to him are hiding secrets, and as the darkness looms, Gabriel must give himself over to the sinister force that shattered his family all those years ago, or put his trust in a lesser evil.*** 
 
-It has been a long time since I’ve read a vampire novel, but I read a short story by Beverley Lee called *“The Silence of Sarah Cross”* in the charity anthology [**‘We Are Wolves’**](https://abitwordsy.blog/book-reviews/we-are-wolves/) and immediately fell in love with her gorgeously Gothic words. So I had to read **The Making of Gabriel Davenport** and I’m so glad that I did. I adore this book and it has given me a thirst (yes, I went there) for more. Luckily for me, this is the first book in a 3-book series. 
+It has been a long time since I’ve read a vampire novel, but I read a short story by Beverley Lee called *“The Silence of Sarah Cross”* in the charity anthology **[‘We Are Wolves’](https://abitwordsy.blog/book-reviews/we-are-wolves/)** and immediately fell in love with her gorgeously Gothic words. So I had to read **The Making of Gabriel Davenport** and I’m so glad that I did. I adore this book and it has given me a thirst (yes, I went there) for more. Luckily for me, this is the first book in a 3-book series. 
 
 The Gothic imagery in this book is the stuff of my dreams. Beverley Lee describes the atmosphere and setting like the Gothic writers of old. The description was so vivid, it felt like the beautiful, bleak British weather was raging outside my own window. 
 
@@ -32,7 +32,7 @@ I also loved the use of short chapters. It really built suspense and a sense of 
 
 My only complaint is that life got in the way, so I couldn’t devour the book as quickly as I wanted to!
 
-The Making of Gabriel was everything I love in a book and Beverley Lee is quickly becoming one of my favourite authors. If you love vampires, the occult, and gorgeous, moody Gothic settings, this book is for you. Now excuse me while I go and buy books 2 and 3. 
+**The Making of Gabriel Davenport** was everything I love in a book and Beverley Lee is quickly becoming one of my favourite authors. If you love vampires, the occult, and gorgeous, moody Gothic settings, this book is for you. Now excuse me while I go and buy books 2 and 3. 
 
 **[Buy the book on Amazon](https://www.amazon.com/Making-Gabriel-Davenport-Book-ebook/dp/B01CKEZ0LC).** 
 
