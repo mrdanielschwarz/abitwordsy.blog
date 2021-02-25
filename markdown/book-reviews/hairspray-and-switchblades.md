@@ -35,6 +35,6 @@ The creepy, gory parts in the book were excellently written too. The antagonist 
 
 I also thought the ending was excellent. It’s given me a little bit of hope that we may see more of these sexy, badass shifter women in a longer work sometime in the future. 
 
-Overall, I really enjoyed Hairspray and Switchblades, and I’m a big fan of V. Castro’s erotic, woman-centric style of horror mixed with Mexican-American folklore and culture. It’s a breath of fresh air in a very white male-dominated genre and I will continue to devour her books. 
+Overall, I really enjoyed **Hairspray and Switchblades**, and I’m a big fan of V. Castro’s erotic, woman-centric style of horror mixed with Mexican-American folklore and culture. It’s a breath of fresh air in a very white male-dominated genre and I will continue to devour her books. 
 
 **[Buy the book on Amazon](https://www.amazon.com/Hairspray-Switchblades-Rewind-Die-Castro/dp/1989206352).** 
