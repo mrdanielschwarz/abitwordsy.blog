@@ -16,7 +16,7 @@ title: "Book Review: The Malan Witch by Catherine Cavendish"
 
 blockquote: "”Out at sea, the waves formed white horses, racing for the shore. In the far distance, she could make out the sleek lines of an enormous cruise ship, sailing its passengers across the Atlantic.”"
 
-description: "My 3-star review of “The Malan Witch” by Catherine Cavendish”
+description: "My 3-star review of “The Malan Witch” by Catherine Cavendish"
 
 ---
 
