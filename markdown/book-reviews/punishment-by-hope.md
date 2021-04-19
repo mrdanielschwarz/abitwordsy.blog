@@ -1,4 +1,3 @@
-
 ---
 
 rating: 4
@@ -32,6 +31,3 @@ I love Erik Hofstatter’s style of writing. At times I wasn’t sure if it was 
 This story felt both like a dream and a nightmare. It was fantastical, erotic, disorientating, horrifying and beautiful all in one and I recommend it to anyone who wants to get lost in a surreal, bizarre, aquatic dream-like world for a while!
 
 **[Buy the book on Amazon](https://www.amazon.co.uk/Punishment-Hope-Erik-Hofstatter-ebook/dp/B08V8QZVC9/ref=sr_1_1?dchild=1&keywords=erik+hofstatter&qid=1618845774&sr=8-1).**
-
-
-
