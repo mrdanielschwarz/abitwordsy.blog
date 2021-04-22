@@ -34,7 +34,7 @@ My only complaint is that life got in the way, so I couldn’t devour the book a
 
 **The Making of Gabriel Davenport** was everything I love in a book and Beverley Lee is quickly becoming one of my favourite authors. If you love vampires, the occult, and gorgeous, moody Gothic settings, this book is for you. Now excuse me while I go and buy books 2 and 3. 
 
-**[Buy the book on Amazon](https://www.amazon.com/Making-Gabriel-Davenport-Book-ebook/dp/B01CKEZ0LC).** 
+**[Buy the book on Amazon](https://www.amazon.co.uk/Making-Gabriel-Davenport-Book-ebook/dp/B01CKEZ0LC/ref=sr_1_1?dchild=1&keywords=beverley+lee&qid=1619106142&sr=8-1).** 
 
 
 
