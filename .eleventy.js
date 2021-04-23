@@ -33,13 +33,13 @@ module.exports = (function (eleventyConfig) {
 
     eleventyConfig.addShortcode("bmc", () => "abitwordsy");
 
-    eleventyConfig.addShortcode("twitter", () => "abitwordsy");
+    eleventyConfig.addShortcode("twitter", () => "rbschwarz");
 
     eleventyConfig.addShortcode("blog", () => "A Bit Wordsy");
 
     eleventyConfig.addShortcode("domain", () => "https://abitwordsy.blog");
 
-    eleventyConfig.addShortcode("author", () => "Rebeka Schwarz");
+    eleventyConfig.addShortcode("author", () => "Rebeka Bergin-Schwarz");
 
     eleventyConfig.addShortcode("year", () => `${ new Date().getFullYear() }`);
 
@@ -70,13 +70,6 @@ module.exports = (function (eleventyConfig) {
         }
 
         return `${ rating } ${ stars.join("") }`;
-
-    });
-
-    eleventyConfig.addFilter("responsify", function (img) {
-
-
-
 
     });
     
