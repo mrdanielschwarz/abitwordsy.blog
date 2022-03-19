@@ -40,4 +40,37 @@ I believe that any woman that reads this will recognise themselves, whether they
 
 **We Are Wolves** is a definite 5-star read. I felt seen in these pages and I think any woman, even if they’re not a horror fan, will be able to relate in some way to the stories and poetry from the amazing writers in this book.
 
+**Trivial (adjective)**- not very important or serious.
+
+
+**Bed-ridden (adjective)**- unable to get out of bed due to sickness or old age.
+
+**Trying (adjective)**- difficult to handle, leading to a person feeling annoyed or tired. 
+
+**Cocky (adjective)**- confident in a negative, annoying way.
+
+**Audacity (noun)-** confidence to do and say what you want, even though it has a negative affect on others. 
+
+**To come cross (phrasal verb)-** to meet someone or find something by chance.
+
+**Proceeds (noun)-** the money made by a person or organisation when they sell or win something, or organise an event/ activity. 
+
+**Non-binary (adjective)-** not only identifying as male or female. 
+
+**To single out (phrasal verb)-** to give special attention to one person/ thing from a group. 
+
+**Raw (adjective)-** a ‘raw’ emotion is strong, natural and not controlled. 
+
+**Phenomenal (adjective)**- very impressive.
+
+**Anthology (noun)-** a book containing stories written by different writers. 
+
+**Oppression (noun)-** treatment from a powerful person, organisation or government that is unfair and cruel.  
+
+**To snap (verb)-** to become extremely, uncontrollably angry or upset. 
+
+**Trauma (noun)-** fear, shock or sadness after a bad experience. 
+
+
+
 **[Buy the book on Amazon](https://www.amazon.co.uk/gp/product/B08PRZCLDV/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_sin_uk-21&linkCode=as2&camp=1634&creative=6738).**
