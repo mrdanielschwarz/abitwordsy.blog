@@ -40,8 +40,11 @@ I believe that any woman that reads this will recognise themselves, whether they
 
 **We Are Wolves** is a definite 5-star read. I felt seen in these pages and I think any woman, even if they’re not a horror fan, will be able to relate in some way to the stories and poetry from the amazing writers in this book.
 
+## Vocabulary List
+
 **Trivial (adjective)**- not very important or serious.
 
+**To wager (verb)**- to think that something is certain.
 
 **Bed-ridden (adjective)**- unable to get out of bed due to sickness or old age.
 
