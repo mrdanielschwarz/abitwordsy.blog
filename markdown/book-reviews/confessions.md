@@ -35,5 +35,6 @@ From chapter 2 onwards you witness the devastating domino effect of Yuko’s lec
 I read this book in 2 days. At no point in the book did I feel like it was dragging, it was all go from beginning to end. Page after page there was some new insight into the minds of the characters and their behaviours, and a new part of the revenge plot taking effect, right up until the final page.
 
 I give this book a 5/5. I adore it and I believe anyone who likes to be taken on a dark, psychological, revenge-filled journey will too.
+ 
 
 **[Buy the book on Amazon](https://www.amazon.com/Confessions-Kanae-Minato/dp/B01L9CSU0O).**

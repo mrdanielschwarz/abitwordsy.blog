@@ -20,9 +20,9 @@ description: "My 5-star review of “We Are Wolves” from Burial Day"
 
 ---
 
-**“Do you remember, Detective, the absolute worst time someone told you to smile?”- Though Your Heart is Breaking, Laurel Hightower.**
+> **“Do you remember, Detective, the absolute worst time someone told you to smile?”- Though Your Heart is Breaking, Laurel Hightower.**
 
-I do remember, actually. It’s something that seems so trivial- being told to smile, yet I’d wager that most women have been told to do so in some way, and it certainly stuck with me. 
+I do remember, actually. It’s something that seems so trivial - being told to smile, yet I’d wager that most women have been told to do so in some way, and it certainly stuck with me. 
 
 I was caring for my grandmother who was bed-ridden and losing her memory, whilst trying to juggle university and help my mum look after my little brother while she worked full-time. It was a very difficult time in my life and it had been a particularly trying day. 
 
@@ -34,46 +34,11 @@ I first came across **We Are Wolves** from [Burial Day](https://burialday.com/),
 
 I’m not going to single out any story or poem, despite using a quote from Laurel Hightower’s **Though Your Heart is Breaking** to tell my own anecdote, because every poem, story, and the very raw and personal foreword by Gemma Amor was phenomenal, and I certainly don’t want to take anything away from any of the amazing women who wrote for **We Are Wolves**. 
 
-This anthology of very diverse stories explores the many horrors that women and girls have to bear, sometimes on a day-to-day basis. Some very raw and dark. Child loss, suicide, domestic abuse, crying for help with no one to listen, rape, child abuse, and oppression to name a few. But these women are not just victims, and as you will see from this anthology, they are not to be messed with because when they finally snap and bite back, they bite back hard. 
+This anthology of very diverse stories explores the many horrors that women and girls have to bear, sometimes on a day-to-day basis. Some very raw, and dark. Child loss, suicide, domestic abuse, crying for help with no one to listen, rape, child abuse, and oppression to name a few. But these women are not just victims, and as you will see from this anthology, they are not to be messed with because when they finally snap and bite back, they bite back hard. 
 
 I believe that any woman that reads this will recognise themselves, whether they’ve been through great trauma in their lives or simply told to *’smile’* or *‘cheer up’* by some dick who has no idea what they’re going through. Or maybe they’ll recognise their mother, or grandmother, because some of these stories explore the generational burdens women bear. 
 
 **We Are Wolves** is a definite 5-star read. I felt seen in these pages and I think any woman, even if they’re not a horror fan, will be able to relate in some way to the stories and poetry from the amazing writers in this book.
-
-## Vocabulary List
-
-**Trivial (adjective)**- not very important or serious.
-
-**To wager (verb)**- to think that something is certain.
-
-**Bed-ridden (adjective)**- unable to get out of bed due to sickness or old age.
-
-**Trying (adjective)**- difficult to handle, leading to a person feeling annoyed or tired. 
-
-**Cocky (adjective)**- confident in a negative, annoying way.
-
-**Audacity (noun)-** confidence to do and say what you want, even though it has a negative affect on others. 
-
-**To come cross (phrasal verb)-** to meet someone or find something by chance.
-
-**Proceeds (noun)-** the money made by a person or organisation when they sell or win something, or organise an event/ activity. 
-
-**Non-binary (adjective)-** not only identifying as male or female. 
-
-**To single out (phrasal verb)-** to give special attention to one person/ thing from a group. 
-
-**Raw (adjective)-** a ‘raw’ emotion is strong, natural and not controlled. 
-
-**Phenomenal (adjective)**- very impressive.
-
-**Anthology (noun)-** a book containing stories written by different writers. 
-
-**Oppression (noun)-** treatment from a powerful person, organisation or government that is unfair and cruel.  
-
-**To snap (verb)-** to become extremely, uncontrollably angry or upset. 
-
-**Trauma (noun)-** fear, shock or sadness after a bad experience. 
-
 
 
 **[Buy the book on Amazon](https://www.amazon.co.uk/gp/product/B08PRZCLDV/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_sin_uk-21&linkCode=as2&camp=1634&creative=6738).**

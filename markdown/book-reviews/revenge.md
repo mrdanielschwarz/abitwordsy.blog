@@ -34,7 +34,7 @@ I knew from the first story that I was going to devour this book. Titled so unsu
 
 The writing was so simple, yet I had to pause and let it sink in for a minute. I remember thinking that I wish I could convey grief and loss in such a way in my own writing. What follows this brief conversation are the effects of such a loss on the mind and relationships.
 
-Another favourite of mine titled **Lab Coats** was, again, a seemingly normal account of a day at the office (in this case a hospital), until the main character reveals her brutal revenge on her lover to a colleague in a very matter of fact way.
+Another favourite of mine titled **Lab Coats** was, again, a seemingly normal account of a day at the office (in this case a hospital), until the main character reveals her brutal revenge on her lover to a colleague in a very matter-of-fact way.
 Yōko Ogawa has this genius way of turning a very ordinary, everyday occurrence into an unnerving, sinister situation, and I am captivated by it. Aside from this, I loved the way she wrote what appeared to be disconnected stories, but connected them to each other so subtly. I found myself so excited when I got that little detail in each story that related to a previous one.
 
 **Revenge: Eleven Dark Tales** is a beautiful, haunting representation of loss, obsession, grief, jealousy, and of course, revenge, and I know that this is a book I will revisit more than once.
