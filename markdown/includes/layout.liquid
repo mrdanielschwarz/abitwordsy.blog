@@ -91,14 +91,18 @@
                
                     <hr>
                     <h1>{{ title }}</h1>
+                    
+                    {% if blockquote %}
 
-                    <blockquote>{{ blockquote }}</blockquote>
+                        <blockquote>{{ blockquote }}</blockquote>
 
-                    <ul>
-                        <li>Rating: {{ rating | starify }}</li>
-                        <li>Published in: {{ released }}</li>
-                        <li>Read in: {{ read }}</li>
-                    </ul>
+                        <ul>
+                            <li>Rating: {{ rating | starify }}</li>
+                            <li>Published in: {{ released }}</li>
+                            <li>Read in: {{ read }}</li>
+                        </ul>
+                    
+                    {% endif %}
 
                     <hr>
                 
