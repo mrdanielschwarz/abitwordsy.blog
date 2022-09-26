@@ -32,4 +32,6 @@ Perhaps what I liked most about *And Then There Were None* was how dark it got i
 
 *And Then There Were None* is a perfectly paced bleak, claustrophobic, paranoia-inducing murder mystery with a constant sense of imminent doom. It’s immensely entertaining and deserving of it’s status as a masterpiece. This is actually my first Agatha Christie book, despite growing up in Britain and spending a lot of time with my nan watching Poirot and Miss Marple on TV. I have no doubt this was a great starting point for her work because I’m eager to read more. 
 
+**Buy the book on [Amazon](https://www.amazon.co.uk/Then-There-Agatha-Christie-Collection-ebook/dp/B0046H95RM/ref=sr_1_2?keywords=and+then+there+were+none&qid=1664180344&qu=eyJxc2MiOiIzLjIzIiwicXNhIjoiMy4wMSIsInFzcCI6IjEuOTgifQ%3D%3D&sr=8-2)** 
+
 
