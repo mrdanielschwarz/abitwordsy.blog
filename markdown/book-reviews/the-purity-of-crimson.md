@@ -4,9 +4,9 @@ rating: 5
 
 layout: layout
 
-date: 2021-10-14
+date: 2022-10-17
 
-read: October 2021
+read: September 2022
 
 released: October 2018
 
